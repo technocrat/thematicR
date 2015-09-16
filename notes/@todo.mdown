@@ -1,6 +1,6 @@
 # @todo
 
-- [ ] Setup schedule &| alias to push
+- [x] Setup schedule &| alias to push
 - [ ] Set up db, create and populate tables
 - [ ] Decide on metadata format, mebbe json?
 - [ ] Standardize working object (kill on sight) names
