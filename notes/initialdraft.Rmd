@@ -1,0 +1,228 @@
+---
+title: "July 2015 YTD Deaths from Police Encounters"
+author: "Richard Careaga"
+date: "August 26th, 2014"
+header-includes:
+   - \usepackage{graphicx}
+   - \graphicspath{{/Users/rc/Desktop/}}
+output: rmarkdown::tufte_handout
+classoption: continuous
+---
+
+```{r, echo=FALSE}
+library(ggplot2)
+library(mapproj)
+library(maps)
+library(xtable)
+options(xtable.comment = FALSE)
+options(xtable.booktabs = TRUE)
+setwd("~/Desktop/gitmo/playpen/r/Rda")
+load("cod.Rda")
+load("causes.Rda")
+load("racegen.Rda")
+load('fig1.Rda')
+load('congress.Rda')
+load("wbhcongress.Rda")
+``` 
+\newthought{The Guardian}[^Guardian] is compiling media reports of deaths resulting from police encounters. You can explore the data interactively at their website. \marginnote{Through July, there have been `r cod[6,9]` deaths in 2015.} The data contains some details that should come as no surprise and others that may be unexpected. Breaking the data down shows that civilian fatalities from police encounters result from situations that may not share much else in common. 
+
+\newthought{The raw totals} show **cause of death** and columns show whether the civilian was armed. \marginnote{The largest portion of deaths were due to gunshots (approximately `r  round(cod[2,9]/cod[6,9],2)*100`\%), followed by Taser (approximately `r  round(cod[4,9]/cod[6,9],2)*100`\%), custody (approximately `r  round(cod[1,9]/cod[6,9],2)*100`\%) and vehicle strikes (approximately `r  round(cod[3,9]/cod[6,9],2)*100`\%).} 
+
+```{r, results='asis', echo=FALSE}
+xtable(cod[,1:3], digits = 0, caption = NULL) 
+xtable(cod[,4:6], digits = 0, caption = "Numbers of civilian cause of death civilian weapon status")
+xtable(cod[,7:9], digits = 0, caption = NULL)
+
+xtable(causes[,1:3], digits = 2, caption = NULL) 
+xtable(causes[,4:6], digits = 2, caption = "Percentages of civilian cause of death civilian weapon status")
+xtable(causes[,7:9], digits = 2, caption = NULL)
+```
+
+\clearpage
+
+## Ethnicity and Gender
+
+Men make up approximately `r  round(racegen[8,2]/racegen[8,3],2)*100`\% of the deaths. The causes of death for men and women were in similar proportions, except that all the reported deaths in custody were men.
+
+```{r, results='asis', echo=FALSE}
+xtable(racegen, digits = 0, caption = "Civilian deaths by ethnicity and gender")
+```
+Minority deaths, including those classified as Unknown, \marginnote{The Unknown category may include deaths for which no ethnicity was reported.} exceed White (non-hispanic) deaths. Without the `r  round(racegen[6,3])` Unknown deaths, however, White (non-hispanic) deaths exceed minority deaths. 
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrrrr}
+  \hline
+ & Districts & White & Minority & Black & Hispanic & Other & Total \\ 
+  \hline
+ & All Districts & 197,212,409 & 116,649,314 &  39,216,485 &  34,675,395 &  42,445,713 & 313,861,723 \\ 
+   & (436 districts) & 62.83$$\% & 37.17$$\% & 12.49$$\% & 11.05$$\% & 13.52$$\% & 100.00$$\% \\ 
+   & Districts with Deaths & 134,811,628 &  84,802,552 &  29,839,964 &  25,150,064 &  29,500,803 & 219,614,180 \\ 
+   & (305 districts) & 61.39$$\% & 38.61$$\% & 13.59$$\% & 11.45$$\% & 13.43$$\% & 100.00$$\% \\ 
+   & Districts without Deaths & 62,400,781 & 31,846,762 &  9,376,521 &  9,525,331 & 12,944,910 & 94,247,543 \\ 
+   & (131 districts) & 66.21$$\% & 33.79$$\% & 9.95$$\% & 10.11$$\% & 13.74$$\% & 100.00$$\% \\ 
+   \hline
+\end{tabular}
+\end{table}
+To illustrate similarities and differences between places where civilian deaths have occurred relative to the country as a whole and places with no deaths, the country can be divided into 436 districts of approximately equal population. The districts range in population from approximately 523,000 to approximately 1,060,000; the mean population is approxiately 719,900 and the median population is approximately 719,100. The distribution is shown in the histogram in the margin.
+```{r, fig.margin = TRUE, fig.cap = "Population distribution of the 436 districts", echo=FALSE}
+
+qplot(total, data=congress, geom="histogram", binwidth = 5000)
+
+```
+
+Deaths in the minority, non-White category (including those in the Unknown category) are higher, 50.9\%, than the 37.2\% of the population that they represent nationwide, the 38.6\% that they represent in 305 districts in which one or move civilian deaths occurred, and the 33.8% that they represent in the 231 districts without deaths. For other minorities, as a group, the aggregate population was approximately equal, from 13.43\% to 13.74\% nationwide, in the districts with deaths and in the districts without deaths.
+
+```{r, fig.width = 10, fig.height = 5, fig.fullwidth = TRUE, fig.cap = "Distribution of Civilian Deaths", echo=FALSE}
+fig1
+```
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrr}
+  \hline
+ & Female (pct) & Male (pct) & Sum (pct) \\ 
+  \hline
+Arab-American & 0.00 & 0.45 & 0.45 \\ 
+  Asian/Pacific Islander & 0.15 & 1.78 & 1.93 \\ 
+  Black & 1.19 & 24.93 & 26.11 \\ 
+  Hispanic/Latino & 0.15 & 14.69 & 14.84 \\ 
+  Native American & 0.00 & 1.19 & 1.19 \\ 
+  Unknown & 0.15 & 6.23 & 6.38 \\ 
+  White & 2.67 & 46.44 & 49.11 \\ 
+  Sum & 4.30 & 95.70 & 100.00 \\ 
+   \hline
+\end{tabular}
+\end{table}
+Within the 305 districts within which there were at least one death, the black (African-American) population represented approximately 13.6\%, compared to approximately 12.5\% nationwide, and the Hispanic/Latino population reperesented approximately 11.45\%, compared to 11.05\% nationwide.\marginnote{Deaths for Hispanics exceed, and deaths for blacks substantially exceed, their proportional representation in those districts, nationwide and in districts without deaths.}  Black civilian deaths occur at almost twice the rate at which they would be expected based solely on their proportion of the population (26.1\% of deaths, compared to 13.6\%). Hispanic deaths also exceed their representation (14.8\% of deaths, compared to 11.5\% of population). Correspondingly, white, non-Hispanic deaths are substantially lower (49.1\% of deaths, compared to 61.4\% of population).
+
+## Detailed Analysis for White, Black, Hispanic Civilian Deaths
+
+Slightly more than 90\% of the reported deaths were of white, black or hispanic civilians, slightly more than 6\% were classified as unknown, and the remaining 3\% (21 people) were Arab-American, Asian/Pacific Islanders or Native American. The deaths in the unknown group provide no information concerning whether they may be related to factors of race or ethnicity, and the three minority groups, together, are represented in approximate proportion to the overall population. For those  reasons, they will be omitted.\sidenote{The remaining analysis will be limited to the 607 of 674 civilians in the data who are identified as white, black or hispanic.}
+
+\newthought{To further focus} the analysis, the data will also be limited by excluding deaths caused by being struck by a vehicle, deaths from unknown causes, deaths for which no information is noted (or unknown or disputed) as to whether the victim was armed. This will be referred to as the **reduced data set.**\sidenote{The remaining analysis will be limited to the 531 of 607 white, black and hispanic civilians who died in circumstances involving police gunshot, taser application or while in police custody in combination with civilians armed with a firearm or nonlethal firearm, knife, vehicle or who were unarmed.}
+```{r, fig.margin = TRUE, fig.cap = "Population distribution of the 276 districts", echo=FALSE}
+
+qplot(total, data=wbhcongress, geom="histogram", binwidth = 5000)
+
+```
+
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrrr}
+  \hline
+ & Firearm & Knife & No & Non-lethal& Vehicle & Sum \\ 
+ &         &       &    & firearm   & \\
+  \hline
+Death in custody & - & - & 22 & - & - & 22 \\ 
+  Gunshot & 292 & 81 & 62 & 22 & 23 & 480 \\ 
+  Taser & - & 1 & 28 & - & - & 29 \\ 
+  Sum & 292 & 82 & 112 & 22 & 23 & 531 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrr}
+  \hline
+Black           & 157  & 29.57\% \\ 
+Hispanic/Latino &  87  & 16.38\% \\ 
+White           & 287  & 54.05\% \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+Within the 276 districts in the reduced data set, the following table shows the proportion of the total population represented by each of black, hispanic and white populations within those districts in aggregate.\marginnote{Black deaths substantially exceed the proportion of black population in the aggregate population of the districts in the reduced data set, hispanic deaths exceed the proportion of the hispanic population and white deaths are substantially lower than the white proportion of the population.}
+
+
+```{r, fig.fullwidth = TRUE, fig.cap = "Geographic Distribution of Reduced Set by Ethnicity", echo = FALSE}
+# would not scale all graphic elements in either fullfig or margin
+```
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrr}
+  \hline
+  Black & Hispanic & White & All Ethnicities \\ 
+  \hline
+ 13.66 & 11.49 & 61.49 & 100.00 \\ 
+   \hline
+\end{tabular}
+\end{table}
+\clearpage
+\marginnote{Figure 4. Distributions of Civilian Deaths by Ethnicity in the reduced data set. Gray indicates non-included districts. See Fig. 2 for legend.}
+\includegraphics{tri.pdf}
+\clearpage
+\newthought{Death by gunshot} accounts for approximately 90.3\% of all deaths in the reduced data set. Of the 480 deaths by gunshot, the number and percentage according to how the civilian was armed are given below.
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrrr}
+  \hline
+ & & & Civilian Armed & & & \\
+ & Firearm & Knife & No & Non-lethal & Vehicle & Sum \\ 
+ &         &       &    & firearm & \\
+  \hline
+  Number  & 292 & 81 & 62 & 22 & 23 & 480 \\ 
+  Percentage   & 60.83\%  & 16.88\% & 12.92\% & 4.58\% & 4.79\% & 100.00\% \\ 
+  \hline
+\end{tabular}
+\end{table}
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrrr}
+  \hline
+ & Firearm & Knife & No & Non-lethal firearm & Vehicle & Sum \\ 
+  \hline
+Black & 76 & 20 & 49 & 5 & 7 & 157 \\ 
+percent& 15.83\% & 4.17\% & 10.21\% & 1.04\% & 1.46\% & 32.71\% \\ 
+Hispanic& 42 & 19 & 14 & 3 & 3 & 81 \\ 
+percent& 8.75\% & 3.96\% & 2.92\% & 0.62\% & 0.62\% & 16.87\% \\ 
+White& 174 & 43 & 23 & 14 & 13 & 267 \\ 
+percent& 36.25\% & 8.96\% & 4.79\% & 2.92\% & 2.71\% & 55.63 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+Within the reduced set,\marginnote{The percentage of black deaths is substantially higher, and the percentage of hispanic deaths is higher than their respective shares of the population of the 276 districts in the reduced data set. The percentage of white deaths is correspondingly lower.} the share of black, hispanic and white populations as percentage of the total population including all ethnicities are 13.66\%, 11.49\% and 61.49\%. Therefore, the relative ratios of the three groups, expressed as a percentage of their aggregate total are 15.77\% 13.23\% 71.00\%, respectively.
+
+\newthought{"Gun-on-gun" situations} account for approximately 60.8\% of civilian deaths by gunshot. \marginnote{The percentage of black deaths is substantially higher, and the percentage of hispanic deaths is higher than their respective shares of the population of the 185 districts in the reduced data set. The percentage of white deaths is correspondingly lower.} 
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrr}
+  \hline
+ Ethnicity & Number & Percentage \\ 
+  \hline
+Black &  76 & 26.03\% \\ 
+Hispanic/Latino &  42 & 14.38\% \\ 
+White & 174 & 59.59\% \\ 
+   \hline
+\end{tabular}
+\end{table}
+\clearpage
+Within the 185 districts comprising gun-on-gun deaths in the reduced data set, population by ethnicity is as follows:
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrr}
+  \hline
+ White & Black & Hispanic & Other & Total \\ 
+  \hline
+80,498,834 &  19,221,011 &  16,045,287 &  17,058,909 & 132,824,041 \\ 
+60.61\% & 14.47\% & 12.08\% & 12.84\% & 100\% \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+\newthought{However,} \marginnote{The nine gun-on-gun deaths divided between two districts in different states are an insufficient basis to draw any conclusions concerning direct disparities among the three groups.}there are only two districts in which all three ethnic groups were involved in gun-on-gun deaths. One district contains Oklahoma City, OK and the other, Orlando, FL. These amount to only nine cases in total, comprised of four white, three black and two hispanic deaths.
+
+
+
+\includegraphics{GonG.pdf}
+
+\newthought{However,} there are only two districts, one containing Oklahoma City, OK and the other containing Orlando, FL, in which civilian deaths of persons reported armed with firearms from gunshot from all three groups occurred. These amount to only nine cases in total, comprised of four white, three black and two hispanic deaths. 
+
+
+
+
+[^Guardian]: http://www.theguardian.com/thecounted

@@ -1,0 +1,674 @@
+1,7600 Cliffs Landing Rd, Bay Minette, AL, ,Match,Exact,7600 CLIFFS LANDING RD, BAY MINETTE, AL, 36507,-87.89524,30.8633,636476695,R
+2,Clearview Ln, Millbrook, AL, ,No_Match
+3,US-84, Opp, AL, ,No_Match
+4,1790 Booger Hollow Rd, Dadeville, AL, ,Match,Exact,1790 BOOGER HOLLOW RD, DADEVILLE, AL, 36853,-85.708664,32.866245,1683763,R
+5,1040 County Rd 249, Moulton, AL, ,Match,Exact,1040 CO RD 249, MOULTON, AL, 35650,-87.28698,34.565735,41393740,R
+6,1100 E Gateway Dr SE, Huntsville, AL, ,No_Match
+7,700 Valley St, Hoover, AL, ,Match,Exact,700 VALLEY ST, HOOVER, AL, 35226,-86.85145,33.414936,81559883,L
+8,I-65, Clanton, AL, ,No_Match
+9,7901 1st Ave S, Birmingham, AL, ,Match,Non_Exact,7901 1ST AVE N, BIRMINGHAM, AL, 35206,-86.72673,33.564827,81585989,R
+10,226 49th Ave E, Tuscaloosa, AL, ,Match,Exact,226 49TH AVE E, TUSCALOOSA, AL, 35404,-87.47262,33.2139,82174485,R
+11,2200 Green Springs Hwy, Birmingham, AL, ,No_Match
+12,1503 Medfra St, Anchorage, AK, ,Match,Exact,1503 MEDFRA ST, ANCHORAGE, AK, 99501,-149.85876,61.207584,190798935,L
+13,1400 E 4th Ave, Anchorage, AK, ,No_Match
+14,8351 N Cracker Barrel Rd, Marana, AZ, ,No_Match
+15,200 S McNab Pkwy, San Manuel, AZ, ,Match,Exact,200 S MCNAB PKWY, SAN MANUEL, AZ, 85631,-110.63167,32.6099,129153630,L
+16,Indian Rte 13, Lukachukai, AZ, ,No_Match
+17,59705 E Bidegain Pl, Kearny, AZ, ,Match,Exact,59705 E BIDEGAIN PL, KEARNY, AZ, 85137,-110.923096,33.07894,129146886,L
+18,135 N Main St, Eagar, AZ, ,No_Match
+19,Coronado Trail, Morenci, AZ, ,No_Match
+20,Greenland Park Dr and Cobblestones Farms Dr, Maricopa, AZ, ,No_Match
+21,123 Vah-Ki Rd, Bapchule, AZ, ,No_Match
+22,1113 W St Mary's Rd, Tuscon, AZ, ,Match,Non_Exact,1113 W SAINT MARYS RD, TUCSON, AZ, 85745,-110.98977,32.229618,121169556,L
+23,101 Naco Hwy, Bisbee, AZ, ,Match,Exact,101 NACO HWY, BISBEE, AZ, 85603,-109.91982,31.389612,120904743,R
+24,Yuma Circle, Cottonwood, AZ, ,No_Match
+25,2003 E Rodeo Dr, Cottonwood, AZ, ,No_Match
+26,I-10, La Paz County, AZ, ,No_Match
+27,2241 Lucille Ave, Kingman, AZ, ,Match,Exact,2241 LUCILLE AVE, KINGMAN, AZ, 86401,-114.02599,35.203903,190314060,R
+28,7920 E Chaparral Rd, Scottsdale, AZ, ,Tie
+29,E Baseline Rd and S 48th St, Phoenix, AZ, ,No_Match
+30,6601 W Christy Dr, Glendale, AZ, ,Match,Exact,6601 W CHRISTY DR, GLENDALE, AZ, 85304,-112.200615,33.583755,128192307,R
+31,4130 N Black Canyon Hwy, Phoenix, AZ, ,No_Match
+32,20th St and Thomas Rd, Phoenix, AZ, ,No_Match
+33,18th St and Palm Ln, Phoenix, AZ, ,No_Match
+34,E Baseline Rd and S 48th St, Phoenix, AZ, ,No_Match
+35,N 19th Ave and W Cactus Rd, Phoenix, AZ, ,No_Match
+36,W Morten Ave and N 42nd Ln, Phoenix, AZ, ,Match,Exact,W MORTEN AVE & N 42ND LN, PHOENIX, AZ, 85051,-112.150665,33.54768,,
+37,W Union Hills Dr and N 39th Ave, Phoenix, AZ, ,No_Match
+38,6735 W Peoria Ave, Peoria, AZ, ,Match,Exact,6735 W PEORIA AVE, PEORIA, AZ, 85345,-112.2039,33.581676,128951925,L
+39,9205 W Hutton Dr, Sun City, AZ, ,Match,Exact,9205 W HUTTON DR, SUN CITY, AZ, 85351,-112.25739,33.63132,128164786,L
+40,N College Ave and E Weber Dr, Tempe, AZ, ,Match,Exact,N COLLEGE AVE & E WEBER DR, TEMPE, AZ, 85281,-111.93145,33.44241,,
+41,E Knox Rd and N Exeter St, Chandler, AZ, ,No_Match
+42,400 E Vine Ave, Mesa, AZ, ,Match,Exact,400 E VINE AVE, MESA, AZ, 85204,-111.82195,33.40504,128283735,R
+43,1400 E Harmony Ave, Mesa, AZ, ,Match,Exact,1400 E HARMONY AVE, MESA, AZ, 85204,-111.80065,33.389576,128246072,L
+44,E Broadway Rd and S Pioneer, Mesa, AZ, ,No_Match
+45,422 SE 3rd St, England, AR, ,Match,Exact,422 SE 3RD ST, ENGLAND, AR, 72046,-91.96586,34.5427,79703446,L
+46,900 E Main St, Cabot, AR, ,Match,Exact,900 E MAIN ST, CABOT, AR, 72023,-92.00818,34.96751,79707151,R
+47,900 Walnut St, Jonesboro, AR, ,Match,Exact,900 WALNUT ST, JONESBORO, AR, 72401,-90.71749,35.83461,46909508,R
+48,601 AR-18, Manila, AR, ,Match,Exact,601 STATE HWY 18, MANILA, AR, 72442,-90.18092,35.886024,641123169,L
+49,9661 Strong Hwy, Strong, AR, ,No_Match
+50,Crystal Ln, Meadow Vista, CA, ,No_Match
+51,Katherine St, Dunsmuir, CA, ,No_Match
+52,4740 Barham Ave, Corning, CA, ,Match,Exact,4740 BARHAM AVE, CORNING, CA, 96021,-122.202385,39.934925,119377190,R
+53,Interstate 5 and Mott Airport Rd, Mt Shasta, CA, ,No_Match
+54,2661 Gravenstein Hwy S, Sebastopol, CA, ,Match,Exact,2661 GRAVENSTEIN HWY S, SEBASTOPOL, CA, 95472,-122.79219,38.374958,67466175,L
+55,1600 9th Ave, Olivehurst, CA, ,Match,Exact,1600 9TH AVE, OLIVEHURST, CA, 95961,-121.55729,39.09176,106941915,L
+56,2007 Sousa Ct, Fairfield, CA, ,Match,Exact,2007 SOUSA CT, FAIRFIELD, CA, 94533,-121.99732,38.265472,192538539,L
+57,Elkhorn Blvd and Dry Creek Rd, Rio Linda, CA, ,Match,Exact,ELKHORN BLVD & DRY CREEK RD, RIO LINDA, CA, 95673,-121.43833,38.683773,,
+58,Hammonton Smartville Rd, Marysville, CA, ,No_Match
+59,3800 Lake Tahoe Blvd, South Lake Tahoe, CA, ,Match,Exact,3800 LAKE TAHOE BLVD, S LAKE TAHOE, CA, 96150,-119.95206,38.95102,133035831,R
+60,1410 Hill Ave, Napa, CA, ,Match,Exact,1410 HILL AVE, NAPA, CA, 94559,-122.27469,38.30574,67423928,R
+61,908 Admiral Callaghan Ln, Vallejo, CA, ,Match,Exact,908 ADMIRAL CALLAGHAN LN, VALLEJO, CA, 94591,-122.22468,38.13109,640041140,R
+62,2010 61st St, Sacramento, CA, ,Match,Exact,2010 61ST ST, SACRAMENTO, CA, 95817,-121.43409,38.551765,133336408,R
+63,1624 Hood Franklin Rd, Elk Grove, CA, ,Match,Exact,1624 HOOD FRANKLIN RD, ELK GROVE, CA, 95758,-121.494644,38.371555,641229239,R
+64,7500 Greenback Ln, Citrus Heights, CA, ,Match,Exact,7500 GREENBACK LN, CITRUS HTS, CA, 95610,-121.29021,38.67828,133427166,R
+65,9000 Buena Vista St, Apple Valley, CA, ,Match,Exact,9000 BUENA VISTA ST, APPLE VALLEY, CA, 92308,-117.17688,34.41582,145223483,L
+66,4100 Needles Hwy, Needles, CA, ,Match,Exact,4100 NEEDLES HWY, NEEDLES, CA, 92363,-114.62607,34.852394,616143999,R
+67,27767 Base Line, Highland, CA, ,Match,Non_Exact,27767 BASELINE ST, HIGHLAND, CA, 92346,-117.19841,34.121227,144662537,R
+68,S San Joaquin St and E Church St, Stockton, CA, ,Match,Non_Exact,S SAN JOAQUIN ST & CHURCH ST, STOCKTON, CA, 95203,-121.28585,37.948254,,
+69,2800 Calariva Dr, Stockton, CA, ,Match,Exact,2800 CALARIVA DR, STOCKTON, CA, 95204,-121.34335,37.97657,133847024,L
+70,Martinique Ct, Stockton, CA, ,No_Match
+71,1000 Claudia Ct, Antioch, CA, ,Match,Exact,1000 CLAUDIA CT, ANTIOCH, CA, 94509,-121.81939,37.99964,192091700,L
+72,800 Howard St, Stockton, CA, ,Match,Exact,800 HOWARD ST, STOCKTON, CA, 95206,-121.29821,37.929783,133931062,L
+73,3700 Beyer Park Dr, Modesto, CA, ,Match,Exact,3700 BEYER PARK DR, MODESTO, CA, 95355,-120.97175,37.692028,102601041,R
+74,Lombard St and Pierce St, San Francisco, CA, ,Tie
+75,Folsom St and 24th St, San Francisco, CA, ,No_Match
+76,Persia Ave and Sunnydale Ave, San Francisco, CA, ,Match,Exact,PERSIA AVE & SUNNYDALE AVE, SAN FRANCISCO, CA, 94112,-122.425835,37.71828,,
+77,1 Moreland Dr, San Francisco, CA, ,No_Match
+78,630 Valencia St, San Francisco, CA, ,Match,Exact,630 VALENCIA ST, SAN FRANCISCO, CA, 94110,-122.4217,37.76289,192284285,R
+79,1501 Van Ness Ave, San Francisco, CA, ,Match,Exact,1501 VAN NESS AVE, SAN FRANCISCO, CA, 94109,-122.42226,37.789474,192280134,L
+80,3800 Hollis St, Oakland, CA, ,Match,Exact,3800 HOLLIS ST, OAKLAND, CA, 94608,-122.2849,37.828148,124995724,R
+81,Lakeshore Ave and Lake Park Ave, Oakland, CA, ,Match,Exact,LAKESHORE AVE & LAKE PARK AVE, OAKLAND, CA, 94610,-122.24624,37.810028,,
+82,4321 1st St, Pleasanton, CA, ,Match,Exact,4321 1ST ST, PLEASANTON, CA, 94566,-121.87163,37.661633,125032556,R
+83,Green Sands Ave and Augusta Ln, Atwater, CA, ,Match,Exact,GREEN SANDS AVE & AUGUSTA LN, ATWATER, CA, 95301,-120.57972,37.339016,,
+84,2105 Scott Blvd, Santa Clara, CA, ,Match,Exact,2105 SCOTT BLVD, SANTA CLARA, CA, 95050,-121.95944,37.361046,618170527,R
+85,Lake Arrowhead Ave and Great Salt Lake Dr, Fremont, CA, ,Match,Exact,LAKE ARROWHEAD AVE & GREAT SALT LAKE DR, FREMONT, CA, 94555,-122.05999,37.58647,,
+86,Tasman Dr and Lawrence Expy, Sunnyvale, CA, ,No_Match
+87,Harvey Community Park, Fremont, CA, ,No_Match
+88,15215 Fern Ave, Boulder Creek, CA, ,Match,Exact,15215 FERN AVE, BOULDER CREEK, CA, 95006,-122.12736,37.14996,125501663,L
+89,1300 Sherman St, San Jose, CA, ,Match,Exact,1300 SHERMAN ST, SAN JOSE, CA, 95110,-121.876045,37.31662,122910670,L
+90,2664 Senter Rd, San Jose, CA, ,Match,Exact,2664 SENTER RD, SAN JOSE, CA, 95111,-121.841225,37.3013,618193699,L
+91,Porter Dr and San Juan Rd, Pajaro, CA, ,Match,Exact,PORTER DR & SAN JUAN RD, PAJARO, CA, 95076,-121.75043,36.9045,,
+92,1134 E St, Wasco, CA, ,Match,Exact,1134 E ST, WASCO, CA, 93280,-119.33514,35.58932,109008453,R
+93,2324 Algehro Dr, Delano, CA, ,Match,Exact,2324 ALGEHRO DR, DELANO, CA, 93215,-119.221436,35.787304,109532912,R
+94,West Lerdo Hwy and South Wall St, Shafter, CA, ,Match,Exact,W LERDO HWY & S WALL ST, SHAFTER, CA, 93263,-119.28053,35.499847,,
+95,3000 W Cecil Ave, Delano, CA, ,No_Match
+96,7th Ave and Kansas Ave, Hanford, CA, ,No_Match
+97,49000 Hildreth Rd, Friant, CA, ,Match,Exact,49000 HILDRETH RD, FRIANT, CA, 93626,-119.65883,37.077057,102334066,R
+98,909 W Visalia Rd, Farmersville, CA, ,Match,Exact,909 W VISALIA RD, FARMERSVILLE, CA, 93223,-119.216034,36.297783,202793444,L
+99,2800 S Mooney Blvd, Visalia, CA, ,Match,Exact,2800 MOONEY BLVD, VISALIA, CA, 93277,-119.313736,36.305046,202780487,L
+100,5201 Monitor St, Bakersfield, CA, ,No_Match
+101,200 Trask St, Bakersfield, CA, ,Match,Exact,200 TRASK ST, BAKERSFIELD, CA, 93314,-119.33212,35.353714,109520697,L
+102,11936 California Rte 178, Lake Isabella, CA, ,Match,Exact,11936 STATE RTE 178, LAKE ISABELLA, CA, 93240,-118.41394,35.643852,109071148,L
+103,1125 1/2 19th St, Bakersfield, CA, ,Tie
+104,400 Steuber Rd, Tehachapi, CA, ,Match,Non_Exact,400 E STEUBER RD, TEHACHAPI, CA, 93561,-118.41421,35.12744,108990491,R
+105,4000 Union Ave, Bakersfield, CA, ,Match,Exact,4000 UNION AVE, BAKERSFIELD, CA, 93305,-119.00286,35.395638,109087802,R
+106,300 W Williams St, Santa Maria, CA, ,Tie
+107,3100 W Ave K4, Lancaster, CA, ,Match,Non_Exact,3100 W AVE K4, LANCASTER, CA, 93536,-118.18529,34.671165,142805937,R
+108,500 W Vineyard Ave, Oxnard, CA, ,Match,Exact,500 W VINEYARD AVE, OXNARD, CA, 93036,-119.18278,34.22807,635808265,L
+109,N Pass Ave and W National Ave, Burbank, CA, ,Match,Exact,N PASS AVE & W NATIONAL AVE, BURBANK, CA, 91505,-118.343544,34.151043,,
+110,Tyler St and Glenoaks Blvd, Sylmar, CA, ,Match,Exact,TYLER ST & GLENOAKS BLVD, SYLMAR, CA, 91342,-118.45321,34.31029,,
+111,12185 Ventura Blvd, Studio City, CA, ,Match,Exact,12185 VENTURA BLVD, STUDIO CITY, CA, 91604,-118.39815,34.143314,142808220,R
+112,4023 University Pkwy, San Bernadino, CA, ,No_Match
+113,400 E Lee Dr, Azusa, CA, ,Match,Exact,400 LEE DR, AZUSA, CA, 91702,-117.90049,34.12811,141709166,R
+114,700 Nogales St, West Covina, CA, ,No_Match
+115,3400 Manitou Ave, Los Angeles, CA, ,Match,Exact,3400 MANITOU AVE, LOS ANGELES, CA, 90031,-118.20512,34.071995,624007557,R
+116,500 San Pedro St, Los Angeles, CA, ,Match,Non_Exact,500 S SAN PEDRO ST, LOS ANGELES, CA, 90013,-118.24399,34.04404,141620331,L
+117,1618 E 123rd St, Los Angeles, CA, ,Match,Exact,1618 E 123RD ST, LOS ANGELES, CA, 90059,-118.2454,33.92087,142762286,R
+118,4th St and Mathews St, Los Angeles, CA, ,No_Match
+119,800 S Sycamore Ave, Los Angeles, CA, ,Match,Exact,800 S SYCAMORE AVE, LOS ANGELES, CA, 90036,-118.343575,34.060368,141600175,L
+120,13000 Gavina Ave, Los Angeles, CA, ,No_Match
+121,10200 S Vermont Ave, Los Angeles, CA, ,Match,Non_Exact,10200 S VERMONT AVE, LOS ANGELES, CA, 90044,-118.291626,33.943695,142650511,L
+122,2400 Flower St, Los Angeles, CA, ,Match,Non_Exact,2400 S FLOWER ST, LOS ANGELES, CA, 90007,-118.27376,34.028946,141607533,L
+123,52 Windward Ave, Los Angeles, CA, ,No_Match
+124,13600 Culver Blvd, Los Angeles, CA, ,No_Match
+125,671 Rose Ave, Los Angeles, CA, ,No_Match
+126,Jesse St and Mateo St, Los Angeles, CA, ,Match,Exact,JESSE ST & MATEO ST, LOS ANGELES, CA, 90021,-118.232475,34.036194,,
+127,11157 Chico Ave, Pomona, CA, ,Match,Exact,11157 CHICO AVE, POMONA, CA, 91766,-117.72103,34.051018,144670240,L
+128,9700 Kempster Ave, Fontana, CA, ,Match,Exact,9700 KEMPSTER AVE, FONTANA, CA, 92335,-117.429695,34.077545,144645435,R
+129,Fern Ave and Phillips St, Ontario, CA, ,Match,Non_Exact,S FERN AVE & W PHILLIPS ST, ONTARIO, CA, 91762,-117.65469,34.050137,,
+130,184 W 3rd St, Pomona, CA, ,Match,Exact,184 W 3RD ST, POMONA, CA, 91766,-117.750984,34.0569,141733887,L
+131,10300 Ramona Ave, Montclair, CA, ,Match,Exact,10300 RAMONA AVE, MONTCLAIR, CA, 91763,-117.70703,34.066757,144671355,R
+132,7100 Pine Ave, Chino, CA, ,Match,Exact,7100 PINE AVE, CHINO, CA, 91708,-117.64995,33.953457,144678339,L
+133,40200 Clark Dr, Hemet, CA, ,Match,Exact,40200 CLARK DR, HEMET, CA, 92544,-116.95859,33.741714,194756427,L
+134,Girard Street and Acacia Ave, Hemet, CA, ,Match,Non_Exact,GIRARD ST & E ACACIA AVE, HEMET, CA, 92544,-116.95427,33.744015,,
+135,1200 Calimesa Blvd, Calimesa, CA, ,Match,Exact,1200 CALIMESA BLVD, CALIMESA, CA, 92320,-117.0587,33.99653,194751462,R
+136,12000 Rose Hedge Dr, Whittier, CA, ,Match,Exact,12000 ROSE HEDGE DR, WHITTIER, CA, 90606,-118.05512,33.972282,141747293,R
+137,17200 Pires Ave, Cerritos, CA, ,Match,Exact,17200 PIRES AVE, CERRITOS, CA, 90703,-118.0504,33.874355,141753531,L
+138,12200 216th St, Hawaiian Gardens, CA, ,Match,Exact,12200 216TH ST, HAWAIIAN GARDENS, CA, 90716,-118.073875,33.833252,142796391,R
+139,10400 Enloe St, South El Monte, CA, ,Match,Exact,10400 ENLOE ST, SOUTH EL MONTE, CA, 91733,-118.044075,34.053646,142745370,R
+140,5500 Adenmoor Ave, Lakewood, CA, ,Match,Exact,5500 ADENMOOR AVE, LAKEWOOD, CA, 90713,-118.124,33.856163,142794964,R
+141,25001 Sunnymead Blvd, Moreno Valley, CA, ,Match,Exact,25001 SUNNYMEAD BLVD, MORENO VALLEY, CA, 92553,-117.226234,33.93911,608975423,R
+142,14200 Kornblum Ave, Hawthorne, CA, ,No_Match
+143,1515 Bayview Ave, Wilmington, CA, ,Match,Non_Exact,1515 N BAY VIEW AVE, WILMINGTON, CA, 90744,-118.270966,33.79332,141681920,L
+144,Seminole Ave and Capistrano Ave, South Gate, CA, ,Match,Exact,SEMINOLE AVE & CAPISTRANO AVE, SOUTH GATE, CA, 90280,-118.21775,33.939182,,
+145,8900 Kauffman Ave, South Gate, CA, ,Match,Exact,8900 KAUFFMAN AVE, SOUTH GATE, CA, 90280,-118.18894,33.952465,142764139,L
+146,28 Paseo Viento, Rancho Santa Margarita, CA, ,Match,Non_Exact,28 PSO VIENTO, RANCHO SANTA MARGARITA, CA, 92688,-117.61275,33.653496,144394670,L
+147,La Palma Ave and Helena St, Anaheim, CA, ,No_Match
+148,1000 W 3rd St, Santa Ana, CA, ,Tie
+149,933 S Roberts St, Anaheim, CA, ,Match,Exact,933 S ROBERTS ST, ANAHEIM, CA, 92802,-117.93979,33.818913,144024591,R
+150,150 E Lincoln Ave, Anaheim, CA, ,Tie
+151,S Main St and E Pine St, Santa Ana, CA, ,No_Match
+152,4600 E 15th St, Long Beach, CA, ,Match,Non_Exact,4600 E 15TH ST, LONG BEACH, CA, 90804,-118.139046,33.785755,624514739,R
+153,13822 Brookhurst St, Garden Grove, CA, ,Match,Exact,13822 BROOKHURST ST, GARDEN GROVE, CA, 92840,-117.95495,33.763294,144084316,L
+154,1100 Hoffman Ave, Long Beach, CA, ,Match,Exact,1100 HOFFMAN AVE, LONG BEACH, CA, 90813,-118.173615,33.78093,141694702,R
+155,Shadytree Ln and Glen Arbor Dr, Encinitas, CA, ,Match,Exact,SHADYTREE LN & GLEN ARBOR DR, ENCINITAS, CA, 92024,-117.241554,33.04976,,
+156,3600 Emmanuel Way, Alpine, CA, ,Match,Exact,3600 EMMANUEL WAY, ALPINE, CA, 91901,-116.70207,32.7505,195427158,R
+157,7700 Mesa College Dr, San Diego, CA, ,Match,Exact,7700 MESA COLLEGE DR, SAN DIEGO, CA, 92111,-117.15511,32.801914,635925543,L
+158,3200 Hancock St, San Diego, CA, ,Match,Exact,3200 HANCOCK ST, SAN DIEGO, CA, 92110,-117.20514,32.754288,612860558,R
+159,14000 Via Fiesta, San Diego, CA, ,No_Match
+160,4501 W Kentucky Ave, Denver, CO, ,Tie
+161,Newport St and E 25th Ave, Denver, CO, ,No_Match
+162,1841 19th St, Boulder, CO, ,Match,Exact,1841 19TH ST, BOULDER, CO, 80302,-105.2704,40.01776,623784944,L
+163,1225 W Prospect Rd, Fort Collins, CO, ,Tie
+164,4100 Eldorado Springs Dr, Boulder, CO, ,Match,Exact,4100 ELDORADO SPRINGS DR, BOULDER, CO, 80303,-105.2568,39.938892,220747935,R
+165,N 10th St and Gunnison Ave, Grand Junction, CO, ,No_Match
+166,US-40, Craig, CO, ,No_Match
+167,I-70 and US-6, Glenwood Springs, CO, ,No_Match
+168,Troy Ave and Oakshire Ln, Pueblo, CO, ,Match,Exact,TROY AVE & OAKSHIRE LN, PUEBLO, CO, 81001,-104.57347,38.285435,,
+169,Exit 310 of I-70, Strasburg, CO, ,No_Match
+170,600 15th Ave Ct, Greeley, CO, ,Tie
+171,1505 E Main St, Trinidad, CO, ,Match,Exact,1505 E MAIN ST, TRINIDAD, CO, 81082,-104.49135,37.174866,636502738,L
+172,818 31st St, Evans, CO, ,Match,Exact,818 31ST ST, EVANS, CO, 80620,-104.69032,40.38459,188742871,R
+173,3120 East Main St, CaÒon City, CO, ,Match,Non_Exact,3120 E MAIN ST, CANON CITY, CO, 81212,-105.193344,38.446724,108310714,L
+174,138 Del Mar Cir, Aurora, CO, ,Match,Non_Exact,138 DEL MAR CIR, AURORA, CO, 80011,-104.84314,39.72633,177353634,R
+175,E 12th Ave and Memphis St, Aurora, CO, ,No_Match
+176,10900 E 109th Pl, Northglenn, CO, ,Match,Exact,10900 E 109TH PL, NORTHGLENN, CO, 80233,-104.97667,39.89435,177295685,R
+177,134 Burban Dr, Branford, CT, ,Match,Exact,134 BURBAN DR, BRANFORD, CT, 06405,-72.8433,41.269245,3705459,L
+178,641 Naamans Rd, Claymont, DE, ,Match,Exact,641 NAAMANS RD, CLAYMONT, DE, 19703,-75.44976,39.814583,606356886,R
+179,30 Malvern Ln, Smyrna, DE, ,Match,Exact,30 MALVERN LN, SMYRNA, DE, 19977,-75.60294,39.28008,617127874,L
+180,700 14th St SE, Washington, DC, ,Match,Exact,700 14TH ST SE, WASHINGTON, DC, 20003,-76.985504,38.88121,76230881,L
+181,9265 Quail Roost Dr, Navarre, FL, ,Match,Exact,9265 QUAIL ROOST DR, NAVARRE, FL, 32566,-86.83503,30.413523,74582613,R
+182,1200 Beck Ave, Panama City, FL, ,Match,Exact,1200 BECK AVE, PANAMA CITY, FL, 32401,-85.70154,30.17,7028318,R
+183,2400 W Tharpe St, Tallahassee, FL, ,Match,Exact,2400 W THARPE ST, TALLAHASSEE, FL, 32303,-84.32957,30.465412,636386347,R
+184,Lake Ella, Tallahassee, FL, ,No_Match
+185,410 Williams Ave, Port St Joe, FL, ,Match,Exact,410 WILLIAMS AVE, PORT SAINT JOE, FL, 32456,-85.301926,29.812832,7141253,L
+186,I-75, Micanopy, FL, ,No_Match
+187,Putnam Loop Rd, Putnam Hall, FL, ,No_Match
+188,3500 Beach Blvd, Jacksonville, FL, ,Match,Exact,3500 BEACH BLVD, JACKSONVILLE, FL, 32207,-81.62923,30.303013,639972760,R
+189,7300 Blanding Blvd, Jacksonville, FL, ,Match,Exact,7300 BLANDING BLVD, JACKSONVILLE, FL, 32244,-81.737144,30.214058,83966434,L
+190,Mount Olive Cemetery, Jacksonville, FL, ,No_Match
+191,497 Florida Ave, St Augustine, FL, ,Match,Exact,497 FLORIDA AVE, SAINT AUGUSTINE, FL, 32080,-81.27793,29.850027,92642807,R
+192,225 Presidents Cup Way, St Augustine, FL, ,Match,Exact,225 PRESIDENTS CUP WAY, SAINT AUGUSTINE, FL, 32092,-81.48056,29.972874,629911734,L
+193,831 Maybrook Dr, Deltona, FL, ,Match,Exact,831 MAYBROOK DR, DELTONA, FL, 32725,-81.25363,28.886518,94592645,R
+194,900 Castile Rd SE, Palm Bay, FL, ,Match,Exact,900 CASTILE RD SE, PALM BAY, FL, 32909,-80.64553,27.990784,93908791,R
+195,4055 41st Ave, Vero Beach, FL, ,Tie
+196,Aurora St and Moss Ln, Cocoa, FL, ,Match,Exact,AURORA ST & MOSS LN, COCOA, FL, 32922,-80.74877,28.351215,,
+197,4300 35th Ave, Vero Beach, FL, ,Match,Exact,4300 35TH AVE, VERO BEACH, FL, 32967,-80.42117,27.671568,120304045,R
+198,1514 S Harbor City Blvd, Melbourne, FL, ,Tie
+199,4455 King St, Cocoa, FL, ,Match,Exact,4455 KING ST, COCOA, FL, 32926,-80.79312,28.35991,93915594,L
+200,8624 Firestone Cir, Clermont, FL, ,Match,Exact,8624 FIRESTONE CIR, CLERMONT, FL, 34711,-81.812805,28.567057,94142151,R
+201,4304 Pershing Pointe Pl, Orlando, FL, ,Match,Exact,4304 PERSHING POINTE PL, ORLANDO, FL, 32822,-81.30523,28.499702,606113225,L
+202,2300 Taylor St, Mascotte, FL, ,Match,Exact,2300 TAYLOR ST, MASCOTTE, FL, 34753,-81.9141,28.578903,94184457,R
+203,Conway Rd and Hoffner Ave, Orlando, FL, ,No_Match
+204,1637 Watauga Ave, Orlando, FL, ,No_Match
+205,11120 NW Gainesville Rd, Ocala, FL, ,Tie
+206,5236 Robin Ln N, St Petersburg, FL, ,Match,Exact,5236 ROBIN LN N, SAINT PETERSBURG, FL, 33714,-82.65855,27.819748,124703672,L
+207,N 40th St and E Flora St, Tampa, FL, ,No_Match
+208,4660 N Socrum Loop Rd, Lakeland, FL, ,Match,Non_Exact,4660 N SOCRUM LOOP RD, LAKELAND, FL, 33809,-81.95047,28.102175,639786153,L
+209,1600 Grass Lake Dr, Tampa Bay, FL, ,No_Match
+210,8th St and N Orange Ave, Sarasota, FL, ,No_Match
+211,3300 Mola St, North Port, FL, ,Match,Exact,3300 MOLA ST, NORTH PORT, FL, 34287,-82.2496,27.05922,16341670,L
+212,1117 Mayflower Rd, Fort Pierce, FL, ,Match,Exact,1117 MAYFLOWER RD, FORT PIERCE, FL, 34950,-80.32852,27.433573,120149884,R
+213,4491 NW 19th St, Lauderhill, FL, ,Match,Non_Exact,4491 NW 19TH ST, LAUDERHILL, FL, 33313,-80.20904,26.149914,640114176,L
+214,1347 Sample Rd, Pompano Beach, FL, ,Match,Non_Exact,1347 W SAMPLE RD, POMPANO BEACH, FL, 33064,-80.14176,26.274837,114741178,L
+215,1701 Andros Isle, Coconut Creek, FL, ,Match,Exact,1701 ANDROS ISLE, COCONUT CREEK, FL, 33066,-80.168106,26.256449,114767710,R
+216,320 S State Road 7, Plantation, FL, ,No_Match
+217,SW 29th Ave and SW 29th Terrace, Fort Lauderdale, FL, ,No_Match
+218,600 NW 27th Ave, Fort Lauderdale, FL, ,Match,Non_Exact,600 NW 27TH AVE, FORT LAUDERDALE, FL, 33311,-80.17834,26.13183,636369523,L
+219,1300 NE 50th Ct, Oakland Park, FL, ,Match,Exact,1300 NE 50TH CT, OAKLAND PARK, FL, 33334,-80.12962,26.189983,114719193,R
+220,Meridian Ave and W 40th St, Miami Beach, FL, ,No_Match
+221,19157 NW 3rd Ave, Miami Gardens, FL, ,Tie
+222,39 N Marlin Ave, Key Largo, FL, ,Match,Exact,39 MARLIN AVE, KEY LARGO, FL, 33037,-80.39006,25.155441,116487734,L
+223,SW 328th St & Redland Rd, Homestead, FL, ,No_Match
+224,840 NW 75th St, Miami, FL, ,Tie
+225,SW 1st St and SW 22nd Ave, Miami, FL, ,No_Match
+226,350 NW 13th St, Miami, FL, ,Match,Non_Exact,350 13TH ST, MIAMI BEACH, FL, 33139,-80.132355,25.784172,116020577,L
+227,1050 Carl Griffin Dr, Savannah, GA, ,Match,Exact,1050 CARL GRIFFIN DR, SAVANNAH, GA, 31405,-81.165985,32.066563,638944306,R
+228,114 Briar Branch Dr, Jesup, GA, ,Match,Exact,114 BRIAR BRANCH DR, JESUP, GA, 31545,-81.892456,31.678978,612958977,R
+229,6530 Georgia Rte 21, Port Wentworth, GA, ,Match,Exact,6530 STATE RTE 21, PORT WENTWORTH, GA, 31407,-81.185005,32.165195,6195198,L
+230,998 Yates Spring Rd, Brinson, GA, ,Match,Exact,998 YATES SPRING RD, BRINSON, GA, 39825,-84.73495,30.849075,84286648,R
+231,900 Bankhead Hwy, Carrollton, GA, ,Match,Exact,900 BANKHEAD HWY, CARROLLTON, GA, 30117,-85.04887,33.590286,17113508,L
+232,Brown Bridge Rd and Charleston Pl, Covington, GA, ,Match,Exact,BROWN BRIDGE RD & CHARLESTON PL, COVINGTON, GA, 30016,-83.970116,33.576412,,
+233,5130 E Ponce De Leon Ave, Stone Mountain, GA, ,Match,Non_Exact,5130 E PONCE DE LEON AVE, STONE MOUNTAIN, GA, 30083,-84.2087,33.820618,640580254,L
+234,5100 Rock Pl Dr SW, Stone Mountain, GA, ,No_Match
+235,Metropolitan Pkwy and Fair Dr, Atlanta, GA, ,No_Match
+236,2475 Cumberland Pkwy SE, Atlanta, GA, ,Match,Exact,2475 CUMBERLAND PKWY SE, ATLANTA, GA, 30339,-84.478546,33.86078,637332327,R
+237,141 Pryor St SW, Atlanta, GA, ,No_Match
+238,3028 Chamblee Dunwoody Rd, Chamblee, GA, ,No_Match
+239,2853 Avalon Meadows Ct, Lawrenceville, GA, ,Match,Exact,2853 AVALON MEADOWS CT, LAWRENCEVILLE, GA, 30044,-84.08664,33.93307,88937271,L
+240,GA-33, Sylvester, GA, ,No_Match
+241,3022 James Rd, Valdosta, GA, ,Match,Exact,3022 JAMES RD, VALDOSTA, GA, 31601,-83.332924,30.84064,87717806,R
+242,5101 Georgia Rte 133, Moultrie, GA, ,Match,Exact,5101 STATE RTE 133, MOULTRIE, GA, 31768,-83.64021,31.088675,84258326,R
+243,Lower Pond Ct, Clarkesville, GA, ,No_Match
+244,Sparta Hwy and Oconee Springs Rd, Eatonton, GA, ,Match,Non_Exact,SPARTA HWY & OCONEE SPRINGS RD SE, EATONTON, GA, 31024,-83.20649,33.343506,,
+245,538 Spring Place Rd, NE White, GA, ,Match,Non_Exact,538 SPRING PLACE RD NE, WHITE, GA, 30184,-84.801704,34.313442,606311202,R
+246,1404 N June Ave, Douglas, GA, ,Match,Exact,1404 N JUNE AVE, DOUGLAS, GA, 31533,-82.84559,31.523453,6927112,R
+247,2600 Blueberry Cir, Augusta, GA, ,Match,Exact,2600 BLUEBERRY CIR, AUGUSTA, GA, 30906,-82.01928,33.414234,55658457,R
+248,4817 W Mceachern Woods Dr, Powder Springs, GA, ,Match,Non_Exact,4817 W MCEACHERN WOOD DR, POWDER SPRINGS, GA, 30127,-84.694466,33.91158,17203690,L
+249,3189 Morton Bend Rd, Rome, GA, ,Match,Exact,3189 MORTON BEND RD, ROME, GA, 30161,-85.38668,34.218193,30695332,L
+250,1031 Nuuanu Ave, Honolulu, HI, ,Match,Exact,1031 NUUANU AVE, HONOLULU, HI, 96817,-157.86261,21.310701,203235990,R
+251,364 S King St, Honolulu, HI, ,Match,Exact,364 S KING ST, HONOLULU, HI, 96813,-157.85988,21.306467,203236056,L
+252,2600 Kaumualii Hwy, Kaumakani, HI, ,No_Match
+253,Waikoloa Rd, Waikoloa Village, HI, ,No_Match
+254,River Rd, Homedale, ID, ,No_Match
+255,9421 Charles Way, Middleton, ID, ,Match,Exact,9421 CHARLES WAY, MIDDLETON, ID, 83644,-116.58049,43.704105,122809723,R
+256,164 E Main St, Rexburg, ID, ,Match,Exact,164 E MAIN ST, REXBURG, ID, 83440,-111.77943,43.82604,638329703,R
+257,E 100 N, Rigby, ID, ,No_Match
+258,Malad St and Gourley St, Boise, ID, ,Match,Exact,MALAD ST & GOURLEY ST, BOISE, ID, 83705,-116.22235,43.578945,,
+259,15746 Union Ave, Harvey, IL, ,Match,Exact,15746 UNION AVE, HARVEY, IL, 60426,-87.634026,41.60334,111712175,R
+260,6300 Scott St, Rosemont, IL, ,Match,Exact,6300 SCOTT ST, ROSEMONT, IL, 60018,-87.87586,41.993526,111724250,L
+261,E 71st St & S Merrill Ave, Chicago, IL, ,No_Match
+262,7500 S Langley Ave, Chicago, IL, ,Match,Non_Exact,7500 S LANGLEY AVE, CHICAGO, IL, 60619,-87.60784,41.758347,605589793,R
+263,74th Street and Merrill Ave, Chicago, IL, ,No_Match
+264,116 Lathrop Ave, River Forest, IL, ,No_Match
+265,2300 Gilead Ave, Zion, IL, ,Match,Exact,2300 GILEAD AVE, ZION, IL, 60099,-87.84355,42.45395,119627661,R
+266,1st Ave and Richards St, Joliet, IL, ,Match,Non_Exact,1 RICHARDS ST, JOLIET, IL, 60433,-88.07451,41.524055,111541875,R
+267,1408 W Main St, Marion, IL, ,Match,Exact,1408 W MAIN ST, MARION, IL, 62959,-88.94075,37.73079,6011931,R
+268,3400 Lincoln Ave, Alton, IL, ,Match,Exact,3400 LINCOLN AVE, ALTON, IL, 62002,-90.13548,38.892082,107680808,L
+269,224 Circle Dr, Arcola, IL, ,Match,Exact,224 CIRCLE DR, ARCOLA, IL, 61910,-88.30278,39.69194,5746402,L
+270,Illinois Rte 145 and Waldo Church Rd, Metropolis, IL, ,No_Match
+271,1806 16th Ave, Rockford, IL, ,Match,Exact,1806 16TH AVE, ROCKFORD, IL, 61104,-89.06865,42.250084,49259696,L
+272,12th Ave and Glenhurst Ct, Rock Island, IL, ,No_Match
+273,2293 N Main St, Crown Point, IN, ,Match,Exact,2293 MAIN ST, CROWN POINT, IN, 46307,-87.36487,41.44914,98432238,R
+274,2500 St Marys Ave, Fort Wayne, IN, ,Match,Exact,2500 SAINT MARYS AVE, FORT WAYNE, IN, 46808,-85.15619,41.097584,6377132,R
+275,1500 S Dixon Rd, Kokomo, IN, ,Match,Non_Exact,1500 S DIXON RD, KOKOMO, IN, 46902,-86.16508,40.468597,27263083,L
+276,8516 N Meridian Rd, Monon, IN, ,Match,Exact,8516 N MERIDIAN RD, MONON, IN, 47959,-86.877655,40.876366,606920267,L
+277,10202 John Jay Dr, Indianapolis, IN, ,Match,Exact,10202 JOHN JAY DR, INDIANAPOLIS, IN, 46235,-85.98643,39.82138,108012845,L
+278,5700 block Ashby Dr, Indianapolis, IN, ,Match,Exact,5700 ASHBY DR, INDIANAPOLIS, IN, 46221,-86.27343,39.68182,640690212,R
+279,3800 N Tacoma Ave, Indianapolis, IN, ,Match,Non_Exact,3800 N TACOMA AVE, INDIANAPOLIS, IN, 46205,-86.12034,39.825367,107990298,L
+280,Main St and 4th St, Beech Grove, IN, ,Match,Non_Exact,MAIN ST & N 4TH AVE, BEECH GROVE, IN, 46107,-86.08619,39.721737,,
+281,1800 Heather Cir, Indianapolis, IN, ,Match,Exact,1800 HEATHER CIR, INDIANAPOLIS, IN, 46229,-85.99189,39.79262,108035108,R
+282,E 31st St and N Sherman Dr, Indianapolis, IN, ,No_Match
+283,1790 E Voorhees St, Harmony, IN, ,No_Match
+284,25th St and Poplar St, Terre Haute, IN, ,No_Match
+285,104 N Garfield Ave, Burlington, IA, ,Match,Exact,104 N GARFIELD AVE, BURLINGTON, IA, 52601,-91.118866,40.80999,5542070,R
+286,SE 4th St and Scott Ave, Des Moines, IA, ,No_Match
+287,Urbandale Ave and Merle Hay Rd, Des Moines, IA, ,Tie
+288,2388 E Kansas Hwy 4, Assaria, KS, ,No_Match
+289,800 N Van Buren St, Hutchinson, KS, ,Match,Exact,800 N VAN BUREN ST, HUTCHINSON, KS, 67501,-97.94376,38.061844,142934355,R
+290,500 E 5th St, Colby, KS, ,Match,Exact,500 E 5TH ST, COLBY, KS, 67701,-101.04095,39.398033,196549245,L
+291,SW Wanamaker Rd and I-70, Topeka, KS, ,No_Match
+292,S 12th St and Ruby St, Kansas City, KS, ,No_Match
+293,470 N Birch, Gardner, KS, ,Match,Exact,470 N BIRCH, GARDNER, KS, 66030,-94.91019,38.81782,91309164,L
+294,1225 Quindaro Blvd, Kansas City, KS, ,Match,Exact,1225 QUINDARO BLVD, KANSAS CITY, KS, 66104,-94.64202,39.136494,91135888,L
+295,Interstate 35, Kansas City, KS, ,No_Match
+296,500 North Oliver Ave, Wichita, KS, ,Match,Non_Exact,500 N OLIVER ST, WICHITA, KS, 67208,-97.28054,37.693947,115638332,R
+297,4585 Frederica St, Owensboro, KY, ,Match,Exact,4585 FREDERICA ST, OWENSBORO, KY, 42301,-87.12311,37.726295,37581675,R
+298,1 Fontaine Dr, Elizabethtown, KY, ,Match,Exact,1 FONTAINE DR, ELIZABETHTOWN, KY, 42701,-85.90509,37.71878,634397770,R
+299,105 Hinkle St, Wilmore, KY, ,Match,Exact,105 HINKLE ST, WILMORE, KY, 40390,-84.66083,37.86691,38457223,L
+300,111 Towne Dr, Elizabethtown, KY, ,Match,Exact,111 TOWNE DR, ELIZABETHTOWN, KY, 42701,-85.887375,37.733986,34647160,R
+301,S 4th St & W Oak St, Louisville, KY, ,No_Match
+302,Kentucky Rte 92, Williamsburg, KY, ,No_Match
+303,Brushy Fork Rd, Gunlock, KY, ,No_Match
+304,US-150, Stanford, KY, ,No_Match
+305,Doctors Row, Chavies, KY, ,No_Match
+306,215 N Main Cross St, Louisa, KY, ,No_Match
+307,W Woodlawn Ranch Rd and Grand Caillou Rd, Houma, LA, ,No_Match
+308,900 Airline Dr, Kenner, LA, ,Match,Non_Exact,901 AIRLINE DR, KENNER, LA, 70062,-90.26688,29.982859,93548688,L
+309,Lasalle St and Josephine St, New Orleans, LA, ,Match,Exact,LASALLE ST & JOSEPHINE ST, NEW ORLEANS, LA, 70113,-90.08519,29.941286,,
+310,9908 Ave C, Baton Rouge, LA, ,Match,Exact,9908 AVE C, BATON ROUGE, LA, 70807,-91.19228,30.53476,92177691,R
+311,8400 Chef Menteur Hwy, New Orleans, LA, ,Match,Exact,8400 CHEF MENTEUR HWY, NEW ORLEANS, LA, 70127,-89.98855,30.014084,191739931,R
+312,10064 Elm Grove Garden Dr, Baton Rouge, LA, ,Match,Exact,10064 ELM GROVE GARDEN DR, BATON ROUGE, LA, 70807,-91.16946,30.536596,92178821,R
+313,3020 Destrehan Ave, Harvey, LA, ,Match,Exact,3020 DESTREHAN AVE, HARVEY, LA, 70058,-90.07237,29.860426,639161939,L
+314,2515 Manhattan Blvd, Harvey, LA, ,Match,Exact,2515 MANHATTAN BLVD, HARVEY, LA, 70058,-90.04888,29.876612,93543351,R
+315,Caffin Ave and Chartres St, New Orleans, LA, ,No_Match
+316,Becky Sue St, Ville Platte, LA, ,No_Match
+317,200 John Wesly Blvd, Bossier City, LA, ,Match,Non_Exact,200 JOHN WESLEY BLVD, BOSSIER CITY, LA, 71112,-93.706764,32.51734,108534894,L
+318,3200 Exposition Ave, Shreveport, LA, ,Match,Exact,3200 EXPOSITION AVE, SHREVEPORT, LA, 71109,-93.78868,32.481735,57435358,R
+319,300 block Iris Park Dr, Pineville, LA, ,Match,Exact,300 IRIS PARK DR, PINEVILLE, LA, 71360,-92.40399,31.34461,627207711,L
+320,US-65, Tallulah, LA, ,No_Match
+321,175 Bass Pro Blvd, Denham Springs, LA, ,No_Match
+322,645 Smyrna Center Rd, Smyrna, ME, ,No_Match
+323,700 Dennis St, Salisbury, MD, ,Match,Exact,700 DENNIS ST, SALISBURY, MD, 21801,-75.607414,38.379898,114447488,R
+324,Augustine Herman Hwy & E Lewis Shore Rd, Elkton, MD, ,Match,Exact,AUGUSTINE HERMAN HWY & E LEWIS SHORE RD, ELKTON, MD, 21921,-75.81579,39.573433,,
+325,9800 Liberty Rd, Randallstown, MD, ,Match,Exact,9800 LIBERTY RD, RANDALLSTOWN, MD, 21133,-76.82021,39.379795,191463147,R
+326,3000 Hunting Ridge Dr, Owings Mills, MD, ,Match,Exact,3000 HUNTING RIDGE DR, OWINGS MILLS, MD, 21117,-76.805954,39.410343,614111866,L
+327,post, Fort Meade, MD, ,No_Match
+328,1486 Hyde Park Rd, Essex, MD, ,Match,Exact,1486 HYDE PARK RD, ESSEX, MD, 21221,-76.43973,39.298725,639437215,L
+329,950 Nalley Rd, Landover, MD, ,No_Match
+330,402 North Prospect St, Hagerstown, MD, ,Match,Exact,402 N PROSPECT ST, HAGERSTOWN, MD, 21740,-77.72069,39.6494,612158128,L
+331,Mount St and Presbury St, Baltimore, MD, ,No_Match
+332,1900 McHenry St, Baltimore, MD, ,Match,Exact,1900 MCHENRY ST, BALTIMORE, MD, 21223,-76.64679,39.284245,206415418,R
+333,13900 Castle Blvd, Silver Spring, MD, ,Match,Exact,13900 CASTLE BLVD, SILVER SPRING, MD, 20904,-76.94395,39.08239,62094097,L
+334,40 N Main St, Webster, MA, ,Match,Exact,40 MAIN ST, WEBSTER, MA, 01570,-71.88635,42.04925,40018375,R
+335,3 May St, Worcester, MA, ,Match,Exact,3 MAY ST, WORCESTER, MA, 01610,-71.81478,42.25482,40009755,L
+336,Forest Ave, Tewksbury, MA, ,No_Match
+337,54 Jefferson St, Lynn, MA, ,Match,Exact,54 JEFFERSON ST, LYNN, MA, 01902,-70.944046,42.472412,86645227,L
+338,Humboldt Ave and Ruthven St, Roxbury, MA, ,No_Match
+339,4600 Washington St, Roslindale, MA, ,Match,Exact,4600 WASHINGTON ST, ROSLINDALE, MA, 02131,-71.138176,42.277298,85729067,L
+340,Charles River Esplanade, Boston, MA, ,No_Match
+341,50 Thayer St, Brockton, MA, ,Match,Exact,50 THAYER ST, BROCKTON, MA, 02302,-71.0064,42.097454,87442716,L
+342,69 Prospect Hill Dr, Weymouth, MA, ,Match,Exact,69 PROSPECT HILL DR, WEYMOUTH, MA, 02191,-70.931076,42.256832,87252341,R
+343,Crowell Rd and Tipcart Dr, Chatham, MA, ,Match,Exact,CROWELL RD & TIPCART DR, CHATHAM, MA, 02633,-69.965965,41.68939,,
+344,200 Abbie St SE, Wyoming, MI, ,Match,Exact,200 ABBIE ST SE, WYOMING, MI, 49548,-85.66053,42.8935,12463793,R
+345,M-115 & 20 Mile Rd, Marion, MI, ,No_Match
+346,1600 3rd St, Bay City, MI, ,Match,Exact,1600 3RD ST, BAY CITY, MI, 48708,-83.87313,43.599934,81141168,R
+347,6095 Anna's Ln, Portage, MI, ,Match,Exact,6095 ANNA'S LN, PORTAGE, MI, 49024,-85.64088,42.2293,12249354,L
+348,3600 Canfield Rd, Eaton Rapids Township, MI, ,Match,Non_Exact,3600 S CANFIELD RD, EATON RAPIDS, MI, 48827,-84.70056,42.513245,12036126,R
+349,331 W Grand Ledge Hwy, Roxand Township, MI, ,No_Match
+350,2800 Longmeadow Dr, Trenton, MI, ,Match,Exact,2800 LONGMEADOW DR, TRENTON, MI, 48183,-83.215775,42.137077,95696006,R
+351,14680 Middle Gibraltar Rd, Rockwood, MI, ,Match,Exact,14680 MIDDLE GIBRALTAR RD, ROCKWOOD, MI, 48173,-83.20224,42.09466,95457927,R
+352,13331 Strathmoor St, Detroit, MI, ,Match,Exact,13331 STRATHMOOR ST, DETROIT, MI, 48227,-83.18735,42.38487,95441509,L
+353,9500 Evergreen Rd, Detroit, MI, ,Match,Non_Exact,9500 EVERGREEN AVE, DETROIT, MI, 48228,-83.23604,42.3649,95439079,R
+354,Nesbitt Ave S and 99th St W, Bloomington, MN, ,No_Match
+355,14420 N 28th Pl, Plymouth, MN, ,Match,Non_Exact,14420 28TH PL N, PLYMOUTH, MN, 55447,-93.46297,45.011417,43850843,R
+356,261 E University Ave, St Paul, MN, ,Match,Exact,261 UNIVERSITY AVE, SAINT PAUL, MN, 55103,-93.11333,44.955776,97644266,R
+357,411 White Bear Ave, St Paul, MN, ,Match,Non_Exact,411 WHITE BEAR AVE N, SAINT PAUL, MN, 55106,-93.02525,44.9538,97653497,L
+358,4401 Xylon Ave N, Minneapolis, MN, ,Match,Non_Exact,4402 XYLON AVE N, MINNEAPOLIS, MN, 55428,-93.38537,45.03521,635872229,R
+359,University Ave NE and I-694, Fridley, MN, ,No_Match
+360,5900 Xerxes Ave N, Minneapolis, MN, ,Match,Exact,5900 XERXES AVE N, MINNEAPOLIS, MN, 55430,-93.319145,45.06223,43615995,R
+361,1110 Battleground Dr, Iuka, MS, ,Match,Exact,1110 BATTLEGROUND DR, IUKA, MS, 38852,-88.20249,34.804455,607724759,L
+362,3400 Goodman Rd, Olive Branch, MS, ,Match,Exact,3400 GOODMAN RD, OLIVE BRANCH, MS, 38654,-89.933334,34.962418,91845914,R
+363,3468 Casino Way, Robinsonville, MS, ,Match,Exact,3468 CASINO WAY, ROBINSONVILLE, MS, 38664,-90.33528,34.826984,121822485,L
+364,Old Hwy 19 SE, Meridian, MS, ,No_Match
+365,McEwien Swamp Rd, Ruth, MS, ,No_Match
+366,Unknown, Stonewall, MS, ,No_Match
+367,Mt Pleasant Rd, Lucedale, MS, ,No_Match
+368,US-49 and Middle Driveway, Gulfport, MS, ,No_Match
+369,4200 St Louis Ave, St Louis, MO, ,Match,Exact,4200 SAINT LOUIS AVE, SAINT LOUIS, MO, 63115,-90.233665,38.66124,107596138,L
+370,9201 Riverwood Dr, Jennings, MO, ,Match,Exact,9201 RIVERWOOD DR, JENNINGS, MO, 63136,-90.24478,38.723843,100175183,L
+371,Morton Ave and Chatham Ave, St Louis, MO, ,Match,Exact,MORTON AVE & CHATHAM AVE, SAINT LOUIS, MO, 63133,-90.29135,38.673183,,
+372,Minnesota Ave and Meramec St, St Louis, MO, ,Match,Exact,MINNESOTA AVE & MERAMEC ST, SAINT LOUIS, MO, 63118,-90.237526,38.58008,,
+373,635 Spring Dr, Robertsville, MO, ,Match,Exact,635 SPRING DR, ROBERTSVILLE, MO, 63072,-90.79424,38.316235,611755978,R
+374,Hitt St and Elm St, Columbia, MO, ,Match,Exact,HITT ST & ELM ST, COLUMBIA, MO, 65201,-92.32553,38.94844,,
+375,E Broadway and US-63, Columbia, MO, ,Match,Non_Exact,E BROADWAY & US HWY 63, COLUMBIA, MO, 65201,-92.29344,38.94645,,
+376,SE 650th Rd, Green Ridge, MO, ,No_Match
+377,4301 N River Blvd, Sugar Creek, MO, ,No_Match
+378,8700 E 97th Ter, Kansas City, MO, ,Match,Non_Exact,8700 E 97 TER, KANSAS CITY, MO, 64134,-94.48676,38.94723,91466447,L
+379,Blenheim Park, Kansas City, MO, ,No_Match
+380,1400 N Marion Ave, Springfield, MO, ,Match,Exact,1400 N MARION AVE, SPRINGFIELD, MO, 65802,-93.3194,37.22433,76672900,R
+381,3540 White Buffalo Rd, Huntley, MT, ,Match,Exact,3540 WHITE BUFFALO RD, HUNTLEY, MT, 59037,-108.31414,45.86299,636307377,R
+382,2800 10th Ave N, Billings, MT, ,Match,Exact,2800 10TH AVE N, BILLINGS, MT, 59101,-108.51408,45.790478,608060247,L
+383,1223 Omaha Ave, Norfolk, NE, ,Match,Exact,1223 OMAHA AVE, NORFOLK, NE, 68701,-97.42469,42.018063,161582929,R
+384,6501 N 28th St, Lincoln, NE, ,Match,Non_Exact,6501 N 28TH ST, LINCOLN, NE, 68504,-96.67993,40.877155,28288128,R
+385,1702 S 50th St, Omaha, NE, ,Tie
+386,3057 Martin Ave, Omaha, NE, ,Match,Exact,3057 MARTIN AVE, OMAHA, NE, 68112,-95.95922,41.323727,116977531,L
+387,1299 Hickory St, Omaha, NE, ,Match,Exact,1299 HICKORY ST, OMAHA, NE, 68108,-95.9332,41.242844,116988736,L
+388,1363 Clark Dr, Sidney, NE, ,Match,Exact,1363 CLARK DR, SIDNEY, NE, 69162,-102.98302,41.12216,135928740,R
+389,5600 W Sahara Ave, Las Vegas, NV, ,Tie
+390,3040 E Charleston Blvd, Las Vegas, NV, ,Match,Non_Exact,3040 W CHARLESTON BLVD, LAS VEGAS, NV, 89102,-115.18233,36.158997,201864836,R
+391,5300 East Craig Road, Las Vegas, NV, ,Match,Exact,5300 E CRAIG RD, LAS VEGAS, NV, 89115,-115.05719,36.240555,201914400,L
+392,Circle K,  1301 N Eastern Ave, Las Vegas, NV,No_Match
+393,Monument Peak Dr, Gardnerville, NV, ,No_Match
+394,1340 W Warm Springs Rd, Henderson, NV, ,Match,Non_Exact,1340 W WARM SPRINGS RD, HENDERSON, NV, 89014,-115.04376,36.056217,201921557,L
+395,841 Avenue A, Boulder City, NV, ,Match,Exact,841 AVE A, BOULDER CITY, NV, 89005,-114.84047,35.97332,636488957,R
+396,Scobie Pond Rd and Julian Rd, Derry, NH, ,Match,Exact,SCOBIE POND RD & JULIAN RD, DERRY, NH, 03038,-71.336685,42.908085,,
+397,10 Wild Ammonoosuc Rd, Bath, NH, ,Match,Exact,10 WILD AMMONOOSUC RD, BATH, NH, 03740,-71.97583,44.152493,145673425,L
+398,Harrison Ave and Bergen Ave, Camden, NJ, ,Match,Exact,HARRISON AVE & BERGEN AVE, CAMDEN, NJ, 08105,-75.08827,39.96332,,
+399,335 New Brooklyn Rd, Berlin, NJ, ,Match,Exact,335 NEW BROOKLYN RD, BERLIN, NJ, 08009,-74.92831,39.749657,134418095,L
+400,118 W Grape St, Vineland, NJ, ,Match,Exact,118 W GRAPE ST, VINELAND, NJ, 08360,-75.035095,39.484566,174110634,L
+401,405 N Pennsylvania Ave, Atlantic City, NJ, ,Match,Exact,405 N PENNSYLVANIA AVE, ATLANTIC CITY, NJ, 08401,-74.42798,39.36918,202530928,R
+402,Lacey Rd and Deerhead Lake Dr, Lacey Township, NJ, ,No_Match
+403,33 Bayside Pkwy, Middletown, NJ, ,Match,Exact,33 BAYSIDE PKWY, MIDDLETOWN, NJ, 07748,-74.113075,40.44426,90468999,R
+404,110 Nottinghill Ln, Hamilton Township, NJ, ,Match,Non_Exact,110 NOTTINGHILL LN, HAMILTON, NJ, 08619,-74.71051,40.216183,60206254,R
+405,185Johnson Ave, Hackensack, NJ, ,No_Match
+406,10 Temple Ave, Hackensack, NJ, ,Match,Exact,10 TEMPLE AVE, HACKENSACK, NJ, 07601,-74.041046,40.90091,64386019,L
+407,Jackson Ave and E Kennedy St, Hackensack, NJ, ,Tie
+408,1600 Sewall Ave, Asbury Park, NJ, ,Match,Exact,1600 SEWALL AVE, ASBURY PARK, NJ, 07712,-74.025,40.222286,90463063,L
+409,1714 Walker Ave, Union, NJ, ,Match,Exact,1714 WALKER AVE, UNION, NJ, 07083,-74.25298,40.710842,60571420,L
+410,355 Valley Brook Ave, Lyndhurst, NJ, ,Match,Exact,355 VALLEY BROOK AVE, LYNDHURST, NJ, 07071,-74.12511,40.81236,64399227,L
+411,I-95, Ridgefield Park, NJ, ,No_Match
+412,I-95, Ridgefield Park, NJ, ,No_Match
+413,Laurel Trail, Byram Township, NJ, ,No_Match
+414,40 Cedar Grove Pl, Old Bridge Township, NJ, ,Match,Non_Exact,40 CEDAR GROVE PL, OLD BRIDGE, NJ, 08857,-74.301476,40.405365,60334981,L
+415,Garfield Ave SE & Edith Blvd SE, Albuquerque, NM, ,Match,Exact,GARFIELD AVE SE & EDITH BLVD SE, ALBUQUERQUE, NM, 87102,-106.6432,35.072643,,
+416,Arenal Rd SW and Tapia Blvd SW, Albuquerque, NM, ,Match,Exact,ARENAL RD SW & TAPIA BLVD SW, ALBUQUERQUE, NM, 87105,-106.688385,35.051777,,
+417,Constitution Ave and San Mateo Blvd, Albuquerque, NM, ,Match,Non_Exact,CONSTITUTION AVE NE & SAN MATEO BLVD NE, ALBUQUERQUE, NM, 87110,-106.5863,35.09466,,
+418,111 Otero Dr, Ruidoso, NM, ,Match,Exact,111 OTERO DR, RUIDOSO, NM, 88345,-105.67336,33.356728,169113275,L
+419,5 S Hazel St, Los Lunas, NM, ,No_Match
+420,Clearfork Dr, Hobbs, NM, ,No_Match
+421,755 N Valley Dr, Las Cruces, NM, ,Match,Non_Exact,755 S VALLEY DR, LAS CRUCES, NM, 88005,-106.788605,32.297443,189544927,R
+422,298 Gavilan Canyon Rd, Rudioso, NM, ,Match,Non_Exact,298 GAVILAN CANYON RD, RUIDOSO, NM, 88345,-105.63432,33.3263,169127404,R
+423,3007 N Main St, Roswell, NM, ,Tie
+424,Mountainair St, Edgewood, NM, ,No_Match
+425,1851 Sunrise Hwy, Bay Shore, NY, ,Match,Exact,1851 SUNRISE HWY, BAY SHORE, NY, 11706,-73.25055,40.734913,113995988,L
+426,3150 Ocean Pkwy, Brooklyn, NY, ,Match,Exact,3150 OCEAN PKWY, BROOKLYN, NY, 11235,-73.96898,40.575726,640848964,R
+427,2263 Loring Pl, New York, NY, ,No_Match
+428,16802 Hillside Ave, New York, NY, ,No_Match
+429,530 Stanley Ave, New York, NY, ,No_Match
+430,538 E Sixth St, New York, NY, ,Tie
+431,274 E 194th St, New York, NY, ,No_Match
+432,2000 Valentine Ave, New York, NY, ,No_Match
+433,N Little Tor Rd, New City, NY, ,No_Match
+434,I-84, Beacon, NY, ,No_Match
+435,325 Riverside Dr, Fallsburg, NY, ,Match,Exact,325 RIVERSIDE DR, FALLSBURG, NY, 12733,-74.598694,41.73963,639482635,R
+436,New York State Rte 23 and Cairo Junction Rd, Catskill, NY, ,No_Match
+437,Lark St and Second St, Albany, NY, ,No_Match
+438,Lake Titus, Malone, NY, ,No_Match
+439,96 Fox Hill Rd, Northville, NY, ,Match,Exact,96 FOX HILL RD, NORTHVILLE, NY, 12134,-74.06779,43.20774,625241109,L
+440,168 Auringer Rd, Constantania, NY, ,No_Match
+441,Tremont St and Morgan St, Rochester, NY, ,Match,Exact,TREMONT ST & MORGAN ST, ROCHESTER, NY, 14611,-77.63096,43.147846,,
+442,271 Greece Ridge Center Dr, Rochester, NY, ,Match,Exact,271 GREECE RIDGE CENTER DR, ROCHESTER, NY, 14626,-77.69611,43.204758,14577131,L
+443,16744 4th Section Rd, Clarendon, NY, ,No_Match
+444,2311 Main St, Tarboro, NC, ,Match,Non_Exact,2311 N MAIN ST, TARBORO, NC, 27886,-77.5472,35.91709,90179837,R
+445,100 Whitfield St, Enfield, NC, ,Match,Exact,100 WHITFIELD ST, ENFIELD, NC, 27823,-77.66732,36.181267,56718581,R
+446,130 Wedowee Ln, Gaston, NC, ,No_Match
+447,Shatley Springs Rd, Crumpler, NC, ,No_Match
+448,182 N River Ridge Rd, Jonesville, NC, ,Match,Exact,182 N RIVER RIDGE RD, JONESVILLE, NC, 28642,-80.8883,36.21636,46141686,R
+449,Mill St, Pinnacle, NC, ,No_Match
+450,North Carolina Hwy 242 and Reeda Branch Rd, Salemburg, NC, ,No_Match
+451,8100 North Carolina Hwy 41, Dublin, NC, ,No_Match
+452,2704 Mary Ave, Gastonia, NC, ,Match,Exact,2704 MARY AVE, GASTONIA, NC, 28052,-81.22747,35.265858,70377158,R
+453,2325 Union Rd, Gastonia, NC, ,Match,Exact,2325 UNION RD, GASTONIA, NC, 28054,-81.16911,35.22863,70392532,R
+454,375 1st Ave E, Hendersonville, NC, ,Match,Exact,375 1ST AVE E, HENDERSONVILLE, NC, 28792,-82.456345,35.31481,152255620,L
+455,Woodland Hills Dr, Franklin, NC, ,No_Match
+456,85 Almost Home Rd, Penrose, NC, ,No_Match
+457,2600 Reynolda Rd, Winston-Salem, NC, ,Match,Exact,2600 REYNOLDA RD, WINSTON SALEM, NC, 27106,-80.29354,36.1369,84688443,L
+458,Bellefonte Dr, Charlotte, NC, ,No_Match
+459,300 Stone Monument Dr, Wake Forest, NC, ,Match,Exact,300 STONE MONUMENT DR, WAKE FOREST, NC, 27587,-78.52708,35.957245,612814975,R
+460,Unknown, Fort Totten, ND, ,No_Match
+461,1700 Chase Ave, Cincinnati, OH, ,Match,Exact,1700 CHASE AVE, CINCINNATI, OH, 45223,-84.54375,39.163597,103922085,R
+462,Rice St and Valencia St, Cincinnati, OH, ,Match,Exact,RICE ST & VALENCIA ST, CINCINNATI, OH, 45219,-84.51315,39.12229,,
+463,5900 Roe St, Cincinnati, OH, ,Match,Exact,5900 ROE ST, CINCINNATI, OH, 45227,-84.3936,39.15572,103971820,L
+464,Fields Hollow Rd, Peebles, OH, ,No_Match
+465,265 Buffalo Ct, Columbus, OH, ,Match,Exact,265 BUFFALO CT, COLUMBUS, OH, 43207,-82.99635,39.87944,135711836,L
+466,4604 Summit St, Columbus, OH, ,Match,Exact,4604 SUMMIT ST, COLUMBUS, OH, 43224,-82.99676,40.059967,135611785,R
+467,3505 Sullivant Ave, Columbus, OH, ,Match,Exact,3505 SULLIVANT AVE, COLUMBUS, OH, 43204,-83.092354,39.942753,218646165,L
+468,4600 International Gateway, Columbus, OH, ,Match,Exact,4600 INTERNATIONAL GATEWAY, COLUMBUS, OH, 43219,-82.89032,39.998253,641085300,R
+469,800 W Sandusky St, Findlay, OH, ,Match,Exact,800 W SANDUSKY ST, FINDLAY, OH, 45840,-83.662346,41.036972,36469660,R
+470,11540 Upper Gilchrist Rd, Mt Vernon, OH, ,Match,Exact,11540 UPPER GILCHRIST RD, MOUNT VERNON, OH, 43050,-82.437256,40.401382,24667633,R
+471,7360 Salem Ave, Clayton, OH, ,Match,Exact,7360 SALEM AVE, CLAYTON, OH, 45315,-84.33123,39.850227,143603129,L
+472,318 Springbrook Blvd, Dayton, OH, ,Match,Exact,318 SPRINGBROOK BLVD, DAYTON, OH, 45405,-84.21455,39.804264,143568257,R
+473,6902 Ottawa Rd, Cleveland, OH, ,Match,Exact,6902 OTTAWA RD, CLEVELAND, OH, 44105,-81.64132,41.450264,61118277,R
+474,1077 Parkwood Dr, Cleveland, OH, ,Match,Exact,1077 PARKWOOD DR, CLEVELAND, OH, 44108,-81.60937,41.528343,61120396,L
+475,36 Randall Rd, Mansfield, OH, ,Match,Exact,36 RANDALL RD, MANSFIELD, OH, 44907,-82.51532,40.738438,207219059,R
+476,280 N Main St, Mansfield, OH, ,Tie
+477,Phalanx Mills Herner Rd, Southington, OH, ,No_Match
+478,364 Hiwood Ave, Munroe Falls, OH, ,Match,Exact,364 HIWOOD AVE, MUNROE FALLS, OH, 44262,-81.430244,41.148476,61351879,R
+479,2569 Raber Rd, Green, OH, ,No_Match
+480,951 West 36th St N, Tulsa, OK, ,Match,Exact,951 W 36TH ST N, TULSA, OK, 74127,-96.010284,36.205383,82346916,L
+481,6700 E Admiral Pl, Tulsa, OK, ,Match,Non_Exact,6700 E ADMIRAL PL, TULSA, OK, 74115,-95.902534,36.160717,166447160,R
+482,1900 block N Harvard Ave, Tulsa, OK, ,Match,Exact,1900 N HARVARD AVE, TULSA, OK, 74115,-95.94033,36.182102,166445270,L
+483,W 11th St, Tulsa, OK, ,No_Match
+484,W 51st St and S 129th Ave W, Sand Springs, OK, ,No_Match
+485,Hectorville Rd and Bixby Rd, Mounds, OK, ,Match,Exact,HECTORVILLE RD & BIXBY RD, MOUNDS, OK, 74047,-95.890564,35.841827,,
+486,6000 S Lewis Ave, Tulsa, OK, ,Tie
+487,Oklahoma Hwy 48 and E1750 Rd, Wapanucka, OK, ,No_Match
+488,182 N4430 Rd, Rufe, OK, ,No_Match
+489,Old Agency Baptist Church, Muskogee, OK, ,No_Match
+490,unknown, Bunch, OK, ,No_Match
+491,500 S Mission Ave, Tahlequah, OK, ,Match,Exact,500 S MISSION AVE, TAHLEQUAH, OK, 74464,-94.97896,35.90956,53613008,L
+492,H St NW and 20th Ave NW, Miami, OK, ,No_Match
+493,11974-11998 US-64, Muskogee County, OK, ,No_Match
+494,unknown, Guthrie, OK, ,No_Match
+495,604 E Maple Ave, Stillwater, OK, ,Match,Exact,604 E MAPLE AVE, STILLWATER, OK, 74074,-97.05006,36.120926,166361989,L
+496,W 141st St and 257th W Ave, Kellyville, OK, ,No_Match
+497,1200 W Florida Ave, Chickasha, OK, ,Match,Exact,1200 W FLORIDA AVE, CHICKASHA, OK, 73018,-97.948006,35.04007,15214264,R
+498,1600 S Choctaw Rd, Choctaw, OK, ,Tie
+499,3632 SW 38th St, Oklahoma City, OK, ,Match,Non_Exact,3632 SW 38TH ST, OKLAHOMA CITY, OK, 73119,-97.581894,35.426506,100404559,L
+500,Sleepy Hollow Dr and Misty Glen Dr, Newalla, OK, ,Match,Exact,SLEEPY HOLLOW DR & MISTY GLEN DR, NEWALLA, OK, 74857,-97.17212,35.37523,,
+501,1000 SW 62nd St, Oklahoma City, OK, ,Match,Non_Exact,1000 SW 62ND ST, OKLAHOMA CITY, OK, 73139,-97.532616,35.403313,100406793,L
+502,4100 SE 51st St, Oklahoma City, OK, ,Tie
+503,620 SW 59th St, Oklahoma City, OK, ,Tie
+504,1300 NE 24th St, Oklahoma City, OK, ,Tie
+505,2201 NW 27th St, Oklahoma City, OK, ,Tie
+506,1701 Ridgecrest Rd, Edmond, OK, ,Match,Exact,1701 RIDGECREST RD, EDMOND, OK, 73013,-97.45776,35.632874,100410595,L
+507,3300 SW 47th St, Oklahoma City, OK, ,Tie
+508,Post Office Neck Rd and Lake Rd, Shawnee, OK, ,No_Match
+509,3077 OR-99W, McMinnville, OR, ,Match,Exact,3077 STATE HWY 99W, MCMINNVILLE, OR, 97128,-123.16583,45.23031,605613982,L
+510,10405 SW Denney Rd, Beaverton, OR, ,Match,Exact,10405 SW DENNEY RD, BEAVERTON, OR, 97008,-122.783195,45.4694,158224892,R
+511,4505 SW Masters Loop, Aloha, OR, ,Match,Exact,4505 SW MASTERS LOOP, ALOHA, OR, 97007,-122.89169,45.487423,158222156,L
+512,108 Fir Canyon Rd, Grants Pass, OR, ,Match,Exact,108 FIR CANYON RD, GRANTS PASS, OR, 97527,-123.44591,42.3609,156585506,R
+513,360 Argyle Ct, Medford, OR, ,No_Match
+514,Juanipero Way and La Loma Dr, Medford, OR, ,Match,Exact,JUANIPERO WAY & LA LOMA DR, MEDFORD, OR, 97504,-122.83165,42.311005,,
+515,2300 SE 130th Ave, Portland, OR, ,Match,Exact,2300 SE 130TH AVE, PORTLAND, OR, 97233,-122.529945,45.50583,157548089,L
+516,29000 S Wall St, Colton, OR, ,No_Match
+517,1900 NE 122nd Ave, Portland, OR, ,Tie
+518,Exit 71 of Interstate 5, Wolf Creek, OR, ,No_Match
+519,2200 Devos St, Eugene, OR, ,Match,Exact,2200 DEVOS ST, EUGENE, OR, 97402,-123.18116,44.089497,178162846,L
+520,1940 Turner Rd SE, Salem, OR, ,No_Match
+521,1100 Pine Ln, Chester, PA, ,Match,Exact,1100 PINE LN, CHESTER, PA, 19013,-75.40036,39.834557,134889106,L
+522,6919 Rising Sun Ave, Philadelphia, PA, ,Match,Exact,6919 RISING SUN AVE, PHILADELPHIA, PA, 19111,-75.08894,40.056393,131415111,R
+523,800 Riverside Dr, Philadelphia, PA, ,Match,Exact,800 RIVERSIDE DR, PHILADELPHIA, PA, 19154,-74.986336,40.09779,131445123,R
+524,45 Major Bell Ln, Gettysburg, PA, ,Match,Exact,45 MAJOR BELL LN, GETTYSBURG, PA, 17325,-77.15929,39.85904,638866125,R
+525,36 Grandview Rd, Hanover, PA, ,Match,Non_Exact,36 GRANDVIEW AVE, HANOVER TWP, PA, 18706,-75.925606,41.2271,80913291,L
+526,1534 N Center Ave, Somerset, PA, ,Match,Non_Exact,1534 N CENTER AVE, SOMERSET, PA, 15501,-79.07526,40.03374,70251486,R
+527,Redlyn St, Pittsburgh, PA, ,No_Match
+528,700 Saw Mill Run Blvd, Pittsburgh, PA, ,Match,Non_Exact,700 MILL ST, PITTSBURGH, PA, 15221,-79.88206,40.43999,51653779,R
+529,1300 N Plymouth St, Allentown, PA, ,Match,Exact,1300 N PLYMOUTH ST, ALLENTOWN, PA, 18109,-75.43366,40.630882,80764453,L
+530,305 E Walnut St, Lancaster, PA, ,Match,Exact,305 E WALNUT ST, LANCASTER, PA, 17602,-76.29994,40.043373,179663001,L
+531,414 Rehr St, Reading, PA, ,Match,Exact,414 REHR ST, READING, PA, 19606,-75.90782,40.328915,80442995,R
+532,3271 Dartmouth Dr, Charleston, SC, ,Match,Exact,3271 DARTMOUTH DR, CHARLESTON, SC, 29414,-80.07785,32.858284,108852085,R
+533,83 Beaufain St, Charleston, SC, ,Match,Exact,83 BEAUFAIN ST, CHARLESTON, SC, 29401,-79.938576,32.7794,108807552,L
+534,1900 Coulter Dr, North Augusta, SC, ,Match,Exact,1900 COULTER DR, NORTH AUGUSTA, SC, 29841,-81.97508,33.530014,64984042,L
+535,1003 By Pass 123, Seneca, SC, ,No_Match
+536,South Carolina Rte 8 and Augusta Rd, Peltzer, SC, ,No_Match
+537,3598 Poinsett Hwy, Greenville, SC, ,No_Match
+538,200 Canaan Pointe Dr, Spartanburg, SC, ,Match,Exact,200 CANAAN POINTE DR, SPARTANBURG, SC, 29306,-81.911446,34.90371,19500639,R
+539,477 Belcher Rd, Boiling Springs, SC, ,Match,Exact,477 BELCHER RD, BOILING SPGS, SC, 29316,-82.005745,35.02286,19481574,R
+540,3164 Charlotte Hwy, Lancaster, SC, ,Match,Exact,3164 CHARLOTTE HWY, LANCASTER, SC, 29720,-80.79737,34.79671,40705101,R
+541,1945 Remount Rd, North Charleston, SC, ,Match,Exact,1945 REMOUNT RD, NORTH CHARLESTON, SC, 29406,-80.01355,32.899525,108853397,L
+542,107 White Falls Dr, Columbia, SC, ,Match,Exact,107 WHITE FALLS DR, COLUMBIA, SC, 29212,-81.19997,34.072746,70048966,R
+543,100 E Selwood Ln, Columbia, SC, ,Match,Exact,100 E SELWOOD LN, COLUMBIA, SC, 29212,-81.22859,34.077644,70048315,L
+544,650 W Flintlake Ct, Myrtle Beach, SC, ,Match,Exact,650 W FLINTLAKE CT, MYRTLE BEACH, SC, 29579,-78.946724,33.70835,631231068,R
+545,219 Dixie St, Johnsonville, SC, ,Match,Exact,219 DIXIE ST, JOHNSONVILLE, SC, 29555,-79.46185,33.817883,28873967,L
+546,1850 S Cumberland St, Morristown, TN, ,No_Match
+547,4051 Amnicola Hwy, Chattanooga, TN, ,Match,Exact,4051 AMNICOLA HWY, CHATTANOOGA, TN, 37406,-85.259186,35.090206,59307252,L
+548,1000 Bear Creek Pike, Columbia, TN, ,Match,Exact,1000 BEAR CREEK PIKE, COLUMBIA, TN, 38401,-86.94192,35.632584,606753224,R
+549,1400 Oak Tree Ln SE, Cleveland, TN, ,Match,Exact,1400 OAK TREE LN SE, CLEVELAND, TN, 37311,-84.869835,35.13529,57584463,L
+550,812 Forest Hills Dr, Nashville, TN, ,Match,Exact,812 FOREST HILLS DR, NASHVILLE, TN, 37220,-86.7792,36.05367,97193294,R
+551,1128 Murfreesboro Pike, Nashville, TN, ,Match,Exact,1128 MURFREESBORO PIKE, NASHVILLE, TN, 37217,-86.709206,36.12524,97228335,L
+552,2420 Terry Rd, Huntingdon, TN, ,Match,Exact,2420 TERRY RD, HUNTINGDON, TN, 38344,-88.57397,35.95288,19588023,L
+553,5799 Winchester Rd, Memphis, TN, ,Match,Exact,5799 WINCHESTER RD, MEMPHIS, TN, 38115,-89.873405,35.05026,72979625,R
+554,729 N Auburndale St, Memphis, TN, ,Match,Exact,729 N AUBURNDALE ST, MEMPHIS, TN, 38107,-90.000084,35.157677,72912016,L
+555,3800 Vernon Ave, Memphis, TN, ,Match,Exact,3800 VERNON AVE, MEMPHIS, TN, 38122,-89.93393,35.1648,72915429,L
+556,4545 Aldridge Dr, Memphis, TN, ,Match,Exact,4545 ALDRIDGE DR, MEMPHIS, TN, 38109,-90.05418,35.02458,72909629,R
+557,302 W Cotton St, Longview, TX, ,Match,Exact,302 W COTTON ST, LONGVIEW, TX, 75601,-94.743965,32.495106,141128286,L
+558,Lamar St and Whitworth St, Sulphur Springs, TX, ,Match,Exact,LAMAR ST & WHITWORTH ST, SULPHUR SPGS, TX, 75482,-95.59378,33.128777,,
+559,Co Rd 2718, Mabank, TX, ,No_Match
+560,2225 Texas Hwy 256 Loop, Palestine, TX, ,No_Match
+561,FM329 and Cherry St, Waxahachie, TX, ,No_Match
+562,300 E Mitchell St, Arlington, TX, ,Match,Exact,300 E MITCHELL ST, ARLINGTON, TX, 76010,-97.10453,32.728344,101908221,R
+563,1200 Tiny Tree Dr, Missouri City, TX, ,Match,Exact,1200 TINY TREE DR, MISSOURI CITY, TX, 77489,-95.51867,29.59536,78297305,L
+564,18000 Drum Heller Ln, Tomball, TX, ,Match,Exact,18000 DRUM HELLER LN, TOMBALL, TX, 77377,-95.61709,30.025806,96002600,R
+565,2601 Midland Dr, Midland, TX, ,Match,Non_Exact,2601 N MIDLAND DR, MIDLAND, TX, 79707,-102.13928,32.009205,139578644,L
+566,NE 36th St, Fort Worth, TX, ,No_Match
+567,100 Lamplighter Ct, Azle, TX, ,Match,Exact,100 LAMPLIGHTER CT, AZLE, TX, 76020,-97.51649,32.8681,101850007,L
+568,1811 S Main St, Weatherford, TX, ,Match,Exact,1811 S MAIN ST, WEATHERFORD, TX, 76086,-97.796234,32.736694,611020277,R
+569,4800 Hildring Dr E, Forth Worth, TX, ,Match,Exact,4800 HILDRING DR E, FORT WORTH, TX, 76109,-97.38049,32.67877,101886492,R
+570,200 North Retta St, Fort Worth, TX, ,Match,Exact,200 N RETTA ST, FORT WORTH, TX, 76111,-97.30387,32.76695,101890764,R
+571,6024 Wheaton Dr, Fort Worth, TX, ,Match,Exact,6024 WHEATON DR, FORT WORTH, TX, 76133,-97.39491,32.660877,101882799,R
+572,199 W 5th St, Fort Worth, TX, ,No_Match
+573,200 Jordan Dr, Nocona, TX, ,Match,Exact,200 JORDAN DR, NOCONA, TX, 76255,-97.712746,33.78732,152109593,L
+574,Pickett Runn Rd, Sunset, TX, ,No_Match
+575,US-287, Electra, TX, ,No_Match
+576,500 Sycamore St, Lake Jackson, TX, ,Match,Exact,500 SYCAMORE ST, LAKE JACKSON, TX, 77566,-95.42812,29.034447,116579874,L
+577,310 Yaupon St, Freeport, TX, ,Match,Exact,310 YAUPON ST, FREEPORT, TX, 77541,-95.36849,28.955145,116582182,L
+578,4000 Lopez Dr, Edinburg, TX, ,Match,Exact,4000 LOPEZ DR, EDINBURG, TX, 78542,-98.138115,26.260359,71497836,L
+579,4400 Tetons Dr, El Paso, TX, ,Match,Exact,4400 TETONS DR, EL PASO, TX, 79904,-106.43949,31.857677,189339191,R
+580,5111 Fairbanks Dr, El Paso, TX, ,Match,Exact,5111 FAIRBANKS DR, EL PASO, TX, 79924,-106.424255,31.902985,189425950,R
+581,11565 James Watt Dr, El Paso, TX, ,Match,Exact,11565 JAMES WATT DR, EL PASO, TX, 79936,-106.31133,31.739685,189405978,L
+582,I-35, Waco, TX, ,No_Match
+583,West Little York Rd, Houston, TX, ,No_Match
+584,1200 E Airtex Dr, Houston, TX, ,No_Match
+585,800 Northwest Mall, Houston, TX, ,No_Match
+586,3 Greens Rd, Houston, TX, ,Match,Exact,3 GREENS RD, HOUSTON, TX, 77060,-95.41631,29.949055,96656216,L
+587,11799 Featherwood Dr, Houston, TX, ,No_Match
+588,13442 Bellaire Blvd, Houston, TX, ,Match,Exact,13442 BELLAIRE BLVD, HOUSTON, TX, 77099,-95.61999,29.703588,96608012,L
+589,Castlegory Rd and Wallisville Rd, Houston, TX, ,Match,Non_Exact,N CASTLEGORY & WALLISVILLE RD, HOUSTON, TX, 77049,-95.17333,29.806383,,
+590,12810 Gulf Fwy, Houston, TX, ,No_Match
+591,910 Cypress Station Dr, Houston, TX, ,Match,Exact,910 CYPRESS STATION DR, HOUSTON, TX, 77090,-95.44086,30.02618,624609024,R
+592,202 Avenue A, Levelland, TX, ,Match,Exact,202 AVE A, LEVELLAND, TX, 79336,-102.36916,33.591408,185766073,L
+593,2500 FM1054, Tahoka, TX, ,No_Match
+594,10600 Golden Quail Dr, Austin, TX, ,Match,Exact,10600 GOLDEN QUAIL DR, AUSTIN, TX, 78758,-97.70207,30.37974,64025483,L
+595,120 W Slaughter Ln, Austin, TX, ,Match,Exact,120 W SLAUGHTER LN, AUSTIN, TX, 78748,-97.78821,30.167162,64094724,L
+596,Texas Hwy 71 and Silvermine Dr, Austin, TX, ,No_Match
+597,700 San Jacinto Blvd, Austin, TX, ,Match,Exact,700 SAN JACINTO BLVD, AUSTIN, TX, 78701,-97.74001,30.268373,63946481,L
+598,9400 Claxton Dr, Austin, TX, ,Match,Exact,9400 CLAXTON DR, AUSTIN, TX, 78736,-97.91068,30.246546,63936660,R
+599,6505 Shirley Ave, Austin, TX, ,Match,Exact,6505 SHIRLEY AVE, AUSTIN, TX, 78752,-97.72106,30.332224,63931609,R
+600,4100 Avenue I, Rosenberg, TX, ,No_Match
+601,900 Aztec Dr, Sierra Blanca, TX, ,No_Match
+602,US-90 and Charles Dr, Del Rio, TX, ,No_Match
+603,2500 Texas Hwy 121, Euless, TX, ,Match,Exact,2500 STATE HWY 121, EULESS, TX, 76039,-97.101,32.869267,101915064,R
+604,800 Simpson Rd, Victoria, TX, ,Match,Exact,800 SIMPSON RD, VICTORIA, TX, 77904,-97.00138,28.87791,44574555,R
+605,602 Olive St, Jourdanton, TX, ,Match,Exact,602 OLIVE ST, JOURDANTON, TX, 78026,-98.54302,28.91163,24456995,R
+606,, Mission, TX, ,No_Match
+607,Gale St, Laredo, TX, ,No_Match
+608,ChapeÒo Rd, Roma, TX, ,No_Match
+609,121 S I-45 Service Rd, Hutchins, TX, ,No_Match
+610,7400 Bonnie View Rd, Dallas, TX, ,Match,Exact,7400 BONNIE VIEW RD, DALLAS, TX, 75241,-96.75032,32.656673,103190650,L
+611,1100 N Bishop Ave, Dallas, TX, ,Match,Exact,1100 N BISHOP AVE, DALLAS, TX, 75208,-96.82774,32.75626,102946078,R
+612,7000 Altaire Ave, Dallas, TX, ,Match,Exact,7000 ALTAIRE AVE, DALLAS, TX, 75241,-96.82129,32.663418,103190552,L
+613,5400 N Jim Miller Rd, Dallas, TX, ,Match,Non_Exact,5400 N JIM MILLER RD, DALLAS, TX, 75227,-96.70013,32.788956,102924360,R
+614,4999 Naaman Forest Blvd, Garland, TX, ,Match,Exact,4999 NAAMAN FOREST BLVD, GARLAND, TX, 75040,-96.64683,32.96079,624059947,R
+615,4999 Naaman Forest Blvd, Garland, TX, ,Match,Exact,4999 NAAMAN FOREST BLVD, GARLAND, TX, 75040,-96.64683,32.96079,624059947,R
+616,2400 W University Blvd, Brownsville, TX, ,No_Match
+617,2615 Mossrock, San Antonio, TX, ,Match,Non_Exact,2615 MOSSROCK DR, SAN ANTONIO, TX, 78230,-98.53561,29.51304,101493570,R
+618,Karen Ln and Corinne Dr, San Antonio, TX, ,Match,Exact,KAREN LN & CORINNE DR, SAN ANTONIO, TX, 78218,-98.427765,29.489363,,
+619,7611 Marbach Rd, San Antonio, TX, ,Match,Exact,7611 MARBACH RD, SAN ANTONIO, TX, 78227,-98.638626,29.4178,101506760,R
+620,4827 Legend Well Dr, San Antonio, TX, ,Match,Exact,4827 LEGEND WELL DR, SAN ANTONIO, TX, 78247,-98.402596,29.592468,101576425,R
+621,6800 Honeyridge Ln, San Antonio, TX, ,Match,Non_Exact,6800 HONEY RIDGE LN, SAN ANTONIO, TX, 78239,-98.35555,29.523067,101580897,L
+622,West Texas Ave and Gaillard St, Baytown, TX, ,Match,Non_Exact,W TEXAS AVE & S GAILLARD ST, BAYTOWN, TX, 77520,-94.970665,29.733042,,
+623,13710 US Hwy 190 W, Onalaska, TX, ,Match,Non_Exact,13710 US HWY 190, ONALASKA, TX, 77360,-95.10405,30.814219,633759840,R
+624,1800 County Line Rd, Winnie, TX, ,No_Match
+625,210 W 300 N, Roosevelt, UT, ,Tie
+626,346 N 200 E, Logan, UT, ,Tie
+627,2964 W 2125 S, Syracuse, UT, ,Match,Exact,2964 W 2125 S, SYRACUSE, UT, 84075,-112.083084,41.083035,155362602,L
+628,24th St and D Ave, Ogden, UT, ,No_Match
+629,200 S and 800 W, Parowan, UT, ,No_Match
+630,584 E 2nd Ave, Salt Lake City, UT, ,Match,Non_Exact,584 2ND AVE, SALT LAKE CTY, UT, 84103,-111.872,40.771694,176101655,R
+631,120 Honey Berry Ct, Draper, UT, ,Match,Exact,120 HONEY BERRY CT, DRAPER, UT, 84020,-111.887314,40.53987,176131645,R
+632,1600 W 500 N, Provo, UT, ,No_Match
+633,Fort Eustis Blvd, Yorktown, VA, ,No_Match
+634,18th St and Peterson Pl, Newport News, VA, ,No_Match
+635,19 Colin Drive S, Portsmouth, VA, ,Match,Exact,19 COLIN DR S, PORTSMOUTH, VA, 23701,-76.36893,36.818554,122191510,L
+636,1098 Frederick Blvd, Portsmouth, VA, ,Match,Exact,1098 FREDERICK BLVD, PORTSMOUTH, VA, 23707,-76.34059,36.830544,627004417,R
+637,Sir Gawaine Dr, Chesapeake, VA, ,No_Match
+638,200 Elm Rd, Emporia, VA, ,Match,Exact,200 ELM RD, EMPORIA, VA, 23847,-77.51631,36.612034,54234475,R
+639,1301 Spring Meadow Ln, Culpeper, VA, ,Match,Exact,1301 SPRING MEADOW LN, CULPEPER, VA, 22701,-77.97932,38.48428,29845268,L
+640,4219 2nd Road N, Arlington, VA, ,Match,Exact,4219 2ND RD N, ARLINGTON, VA, 22203,-77.10495,38.873188,638169505,R
+641,1847 Bob White Blvd, Pulaski, VA, ,Match,Exact,1847 BOB WHITE BLVD, PULASKI, VA, 24301,-80.74493,37.058506,47024093,L
+642,123 Gregory Pl, Winchester, VA, ,Match,Exact,123 GREGORY PL, WINCHESTER, VA, 22603,-78.128525,39.191727,636665378,L
+643,0520 Judicial Dr, Fairfax, VA, ,No_Match
+644,Kneuman Rd, Sumas, WA, ,No_Match
+645,17500 Tester Rd, Snohomish, WA, ,Match,Exact,17500 TESTER RD, SNOHOMISH, WA, 98290,-122.01356,47.838165,187767112,L
+646,503 N Main St, Coupeville, WA, ,Match,Exact,503 N MAIN ST, COUPEVILLE, WA, 98239,-122.686134,48.21709,187582407,R
+647,727 3rd St, Woodland, WA, ,Match,Exact,727 3RD ST, WOODLAND, WA, 98674,-122.75005,45.902737,184486767,L
+648,707 W 13th St, Vancouver, WA, ,Match,Non_Exact,707 W 13TH ST, VANCOUVER, WA, 98660,-122.67825,45.6311,158322179,L
+649,Bureau of Indian Affairs Rd 66, Tonasket, WA, ,No_Match
+650,3320 W 9th Ave, Kennewick, WA, ,Match,Exact,3320 W 9TH AVE, KENNEWICK, WA, 99336,-119.16653,46.201134,174991479,R
+651,1107 W Lewis St, Pasco, WA, ,Match,Exact,1107 W LEWIS ST, PASCO, WA, 99301,-119.10161,46.22827,175249897,R
+652,1016 N 4th Ave, Pasco, WA, ,Match,Exact,1016 N 4TH AVE, PASCO, WA, 99301,-119.09502,46.236713,629039138,L
+653,N Addison St and E Sanson Ave, Spokane, WA, ,Match,Exact,N ADDISON ST & E SANSON AVE, SPOKANE, WA, 99207,-117.40328,47.70655,,
+654,3420 S Proctor St, Tacoma, WA, ,Match,Exact,3420 S PROCTOR ST, TACOMA, WA, 98409,-122.48851,47.228992,184620348,R
+655,NE 65th St, Seattle, WA, ,No_Match
+656,600 E Island Lake Dr, Shelton, WA, ,No_Match
+657,3600 SW 108th St, Lakewood, WA, ,Match,Non_Exact,3600 108TH ST SW, LAKEWOOD, WA, 98499,-122.48565,47.15935,184623652,L
+658,Horseshoe Run Rd, Fort Ashby, WV, ,No_Match
+659,600 Main St, Follansbee, WV, ,Match,Exact,600 MAIN ST, FOLLANSBEE, WV, 26037,-80.595184,40.32332,54988628,R
+660,Finch Rd, Morgantown, WV, ,No_Match
+661,Brown Ave, Weston, WV, ,No_Match
+662,53 Buck Rub Trail, Meadow Bridge, WV, ,No_Match
+663,1 Mountainside Way, Mt Olive, WV, ,No_Match
+664,22nd Ave and 56th St, Kenosha, WI, ,No_Match
+665,1000 12th St, Monroe, WI, ,Match,Exact,1000 12TH ST, MONROE, WI, 53566,-89.64665,42.600197,48532285,L
+666,1125 Williamson St, Madison, WI, ,Match,Exact,1125 WILLIAMSON ST, MADISON, WI, 53703,-89.365585,43.082363,49473294,R
+667,468 E Plainfield Ave, Milwaukee, WI, ,Match,Exact,468 E PLAINFIELD AVE, MILWAUKEE, WI, 53207,-87.9035,42.96828,77754071,L
+668,8500 Glencoe Cir, Wauwatosa, WI, ,Match,Exact,8500 GLENCOE CIR, WAUWATOSA, WI, 53226,-88.018654,43.035847,77729570,R
+669,760 W Johnson St, Fond du Lac, WI, ,Match,Non_Exact,760 W JOHNSON ST, FOND DU LAC, WI, 54935,-88.4749,43.784428,638220141,L
+670,1511 Plymouth Ln, Green Bay, WI, ,Match,Exact,1511 PLYMOUTH LN, GREEN BAY, WI, 54303,-88.05797,44.526592,148099101,L
+671,Anderson Dairy Rd, Douglas, WY, ,No_Match
+672,N Garner Lake Rd and Vaquero Ave, Gillette, WY, ,Match,Exact,N GARNER LAKE RD & VAQUERO AVE, GILLETTE, WY, 82716,-105.44996,44.301872,,
+673,1654 Kit Carson Ave, Casper, WY, ,Match,Exact,1654 KIT CARSON AVE, CASPER, WY, 82604,-106.3544,42.8337,149022003,R
+674,200 Stinson Ave, Cheyenne, WY, ,Match,Exact,200 STINSON AVE, CHEYENNE, WY, 82007,-104.82614,41.117023,160149713,L

@@ -1,0 +1,11 @@
+# @todo
+
+- [ ] Setup schedule &| alias to push
+- [ ] Set up db, create and populate tables
+- [ ] Decide on metadata format, mebbe json?
+- [ ] Standardize working object (kill on sight) names
+- [ ] Function to scale ggplot objects with size parameter
+- [x] Recreate skeleton
+- [ ] Create placeholder graphics and thumbnails in place of actuals during drafting
+- [ ] re-run Desc summaries
+

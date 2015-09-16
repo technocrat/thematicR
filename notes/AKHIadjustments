@@ -1,0 +1,21 @@
+# AK/HI adjustments
+2015-08-31 17:40 
+
+Versatile crashed and burned its spark file one too many times.
+
+deaths file oringally
+
+* 12               Anchorage,AK -149.90028  61.21806
+* 13               Anchorage,AK -149.90028  61.21806
+* 250               Honolulu,HI -157.85833  21.30694
+* 251               Honolulu,HI -157.85833  21.30694
+* 252              Kaumakani,HI -159.62222  21.91889
+* 253       Waikoloa Village,HI -155.79107  19.93725
+
+changed to 
+
+       city  lon lat
+* 1 Anchorage -112  24
+* 2  Honolulu -103  22
+
+to account for eliding below 48-state map.
